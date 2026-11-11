@@ -1,0 +1,1081 @@
+audit_id,zone,week,date,auditor,category,checkpoint,score
+1,Line 1 - Assembly,1,2026-08-24,A. Chen,Sort,Unneeded items removed from workstations,2.7
+2,Line 1 - Assembly,1,2026-08-24,A. Chen,Sort,Red-tag holding area maintained,3.1
+3,Line 1 - Assembly,1,2026-08-24,A. Chen,Sort,Obsolete materials dispositioned on time,3.2
+4,Line 1 - Assembly,1,2026-08-24,A. Chen,Set in Order,Tools shadow-boarded and labeled,2.6
+5,Line 1 - Assembly,1,2026-08-24,A. Chen,Set in Order,Materials have marked home locations,2.7
+6,Line 1 - Assembly,1,2026-08-24,A. Chen,Set in Order,Walkways clear and marked,3.1
+7,Line 1 - Assembly,1,2026-08-24,A. Chen,Shine,Floors and equipment cleaned per schedule,3.2
+8,Line 1 - Assembly,1,2026-08-24,A. Chen,Shine,Cleaning supplies stocked at point of use,3.2
+9,Line 1 - Assembly,1,2026-08-24,A. Chen,Shine,Leaks and spills addressed same shift,3.0
+10,Line 1 - Assembly,1,2026-08-24,A. Chen,Standardize,Visual standards posted at the line,3.2
+11,Line 1 - Assembly,1,2026-08-24,A. Chen,Standardize,Checklists current and followed,3.2
+12,Line 1 - Assembly,1,2026-08-24,A. Chen,Standardize,Shift handover log complete,3.0
+13,Line 1 - Assembly,1,2026-08-24,A. Chen,Sustain,Audit findings closed on time,3.1
+14,Line 1 - Assembly,1,2026-08-24,A. Chen,Sustain,Team participates in weekly 5S huddles,2.9
+15,Line 1 - Assembly,1,2026-08-24,A. Chen,Sustain,5S board updated weekly,2.6
+16,Line 1 - Assembly,2,2026-08-31,S. Novak,Sort,Unneeded items removed from workstations,3.0
+17,Line 1 - Assembly,2,2026-08-31,S. Novak,Sort,Red-tag holding area maintained,2.7
+18,Line 1 - Assembly,2,2026-08-31,S. Novak,Sort,Obsolete materials dispositioned on time,3.2
+19,Line 1 - Assembly,2,2026-08-31,S. Novak,Set in Order,Tools shadow-boarded and labeled,3.0
+20,Line 1 - Assembly,2,2026-08-31,S. Novak,Set in Order,Materials have marked home locations,3.0
+21,Line 1 - Assembly,2,2026-08-31,S. Novak,Set in Order,Walkways clear and marked,2.9
+22,Line 1 - Assembly,2,2026-08-31,S. Novak,Shine,Floors and equipment cleaned per schedule,3.6
+23,Line 1 - Assembly,2,2026-08-31,S. Novak,Shine,Cleaning supplies stocked at point of use,3.2
+24,Line 1 - Assembly,2,2026-08-31,S. Novak,Shine,Leaks and spills addressed same shift,3.1
+25,Line 1 - Assembly,2,2026-08-31,S. Novak,Standardize,Visual standards posted at the line,2.9
+26,Line 1 - Assembly,2,2026-08-31,S. Novak,Standardize,Checklists current and followed,3.1
+27,Line 1 - Assembly,2,2026-08-31,S. Novak,Standardize,Shift handover log complete,3.1
+28,Line 1 - Assembly,2,2026-08-31,S. Novak,Sustain,Audit findings closed on time,2.9
+29,Line 1 - Assembly,2,2026-08-31,S. Novak,Sustain,Team participates in weekly 5S huddles,2.9
+30,Line 1 - Assembly,2,2026-08-31,S. Novak,Sustain,5S board updated weekly,3.3
+31,Line 1 - Assembly,3,2026-09-07,M. Ortiz,Sort,Unneeded items removed from workstations,2.8
+32,Line 1 - Assembly,3,2026-09-07,M. Ortiz,Sort,Red-tag holding area maintained,2.7
+33,Line 1 - Assembly,3,2026-09-07,M. Ortiz,Sort,Obsolete materials dispositioned on time,3.1
+34,Line 1 - Assembly,3,2026-09-07,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,3.3
+35,Line 1 - Assembly,3,2026-09-07,M. Ortiz,Set in Order,Materials have marked home locations,3.0
+36,Line 1 - Assembly,3,2026-09-07,M. Ortiz,Set in Order,Walkways clear and marked,2.8
+37,Line 1 - Assembly,3,2026-09-07,M. Ortiz,Shine,Floors and equipment cleaned per schedule,3.0
+38,Line 1 - Assembly,3,2026-09-07,M. Ortiz,Shine,Cleaning supplies stocked at point of use,3.4
+39,Line 1 - Assembly,3,2026-09-07,M. Ortiz,Shine,Leaks and spills addressed same shift,3.4
+40,Line 1 - Assembly,3,2026-09-07,M. Ortiz,Standardize,Visual standards posted at the line,3.1
+41,Line 1 - Assembly,3,2026-09-07,M. Ortiz,Standardize,Checklists current and followed,2.8
+42,Line 1 - Assembly,3,2026-09-07,M. Ortiz,Standardize,Shift handover log complete,3.1
+43,Line 1 - Assembly,3,2026-09-07,M. Ortiz,Sustain,Audit findings closed on time,2.8
+44,Line 1 - Assembly,3,2026-09-07,M. Ortiz,Sustain,Team participates in weekly 5S huddles,2.9
+45,Line 1 - Assembly,3,2026-09-07,M. Ortiz,Sustain,5S board updated weekly,3.0
+46,Line 1 - Assembly,4,2026-09-14,S. Novak,Sort,Unneeded items removed from workstations,3.0
+47,Line 1 - Assembly,4,2026-09-14,S. Novak,Sort,Red-tag holding area maintained,3.1
+48,Line 1 - Assembly,4,2026-09-14,S. Novak,Sort,Obsolete materials dispositioned on time,3.0
+49,Line 1 - Assembly,4,2026-09-14,S. Novak,Set in Order,Tools shadow-boarded and labeled,3.1
+50,Line 1 - Assembly,4,2026-09-14,S. Novak,Set in Order,Materials have marked home locations,3.2
+51,Line 1 - Assembly,4,2026-09-14,S. Novak,Set in Order,Walkways clear and marked,2.7
+52,Line 1 - Assembly,4,2026-09-14,S. Novak,Shine,Floors and equipment cleaned per schedule,3.2
+53,Line 1 - Assembly,4,2026-09-14,S. Novak,Shine,Cleaning supplies stocked at point of use,3.1
+54,Line 1 - Assembly,4,2026-09-14,S. Novak,Shine,Leaks and spills addressed same shift,3.1
+55,Line 1 - Assembly,4,2026-09-14,S. Novak,Standardize,Visual standards posted at the line,2.9
+56,Line 1 - Assembly,4,2026-09-14,S. Novak,Standardize,Checklists current and followed,3.4
+57,Line 1 - Assembly,4,2026-09-14,S. Novak,Standardize,Shift handover log complete,2.8
+58,Line 1 - Assembly,4,2026-09-14,S. Novak,Sustain,Audit findings closed on time,3.0
+59,Line 1 - Assembly,4,2026-09-14,S. Novak,Sustain,Team participates in weekly 5S huddles,2.4
+60,Line 1 - Assembly,4,2026-09-14,S. Novak,Sustain,5S board updated weekly,2.7
+61,Line 1 - Assembly,5,2026-09-21,J. Patel,Sort,Unneeded items removed from workstations,3.1
+62,Line 1 - Assembly,5,2026-09-21,J. Patel,Sort,Red-tag holding area maintained,3.1
+63,Line 1 - Assembly,5,2026-09-21,J. Patel,Sort,Obsolete materials dispositioned on time,3.1
+64,Line 1 - Assembly,5,2026-09-21,J. Patel,Set in Order,Tools shadow-boarded and labeled,3.0
+65,Line 1 - Assembly,5,2026-09-21,J. Patel,Set in Order,Materials have marked home locations,2.9
+66,Line 1 - Assembly,5,2026-09-21,J. Patel,Set in Order,Walkways clear and marked,3.3
+67,Line 1 - Assembly,5,2026-09-21,J. Patel,Shine,Floors and equipment cleaned per schedule,3.2
+68,Line 1 - Assembly,5,2026-09-21,J. Patel,Shine,Cleaning supplies stocked at point of use,2.9
+69,Line 1 - Assembly,5,2026-09-21,J. Patel,Shine,Leaks and spills addressed same shift,3.0
+70,Line 1 - Assembly,5,2026-09-21,J. Patel,Standardize,Visual standards posted at the line,2.8
+71,Line 1 - Assembly,5,2026-09-21,J. Patel,Standardize,Checklists current and followed,3.1
+72,Line 1 - Assembly,5,2026-09-21,J. Patel,Standardize,Shift handover log complete,3.0
+73,Line 1 - Assembly,5,2026-09-21,J. Patel,Sustain,Audit findings closed on time,3.0
+74,Line 1 - Assembly,5,2026-09-21,J. Patel,Sustain,Team participates in weekly 5S huddles,2.7
+75,Line 1 - Assembly,5,2026-09-21,J. Patel,Sustain,5S board updated weekly,2.8
+76,Line 1 - Assembly,6,2026-09-28,J. Patel,Sort,Unneeded items removed from workstations,3.3
+77,Line 1 - Assembly,6,2026-09-28,J. Patel,Sort,Red-tag holding area maintained,3.1
+78,Line 1 - Assembly,6,2026-09-28,J. Patel,Sort,Obsolete materials dispositioned on time,3.3
+79,Line 1 - Assembly,6,2026-09-28,J. Patel,Set in Order,Tools shadow-boarded and labeled,3.1
+80,Line 1 - Assembly,6,2026-09-28,J. Patel,Set in Order,Materials have marked home locations,3.2
+81,Line 1 - Assembly,6,2026-09-28,J. Patel,Set in Order,Walkways clear and marked,3.2
+82,Line 1 - Assembly,6,2026-09-28,J. Patel,Shine,Floors and equipment cleaned per schedule,3.2
+83,Line 1 - Assembly,6,2026-09-28,J. Patel,Shine,Cleaning supplies stocked at point of use,3.6
+84,Line 1 - Assembly,6,2026-09-28,J. Patel,Shine,Leaks and spills addressed same shift,3.4
+85,Line 1 - Assembly,6,2026-09-28,J. Patel,Standardize,Visual standards posted at the line,3.2
+86,Line 1 - Assembly,6,2026-09-28,J. Patel,Standardize,Checklists current and followed,3.4
+87,Line 1 - Assembly,6,2026-09-28,J. Patel,Standardize,Shift handover log complete,3.4
+88,Line 1 - Assembly,6,2026-09-28,J. Patel,Sustain,Audit findings closed on time,3.2
+89,Line 1 - Assembly,6,2026-09-28,J. Patel,Sustain,Team participates in weekly 5S huddles,3.0
+90,Line 1 - Assembly,6,2026-09-28,J. Patel,Sustain,5S board updated weekly,2.9
+91,Line 1 - Assembly,7,2026-10-05,J. Patel,Sort,Unneeded items removed from workstations,3.0
+92,Line 1 - Assembly,7,2026-10-05,J. Patel,Sort,Red-tag holding area maintained,3.1
+93,Line 1 - Assembly,7,2026-10-05,J. Patel,Sort,Obsolete materials dispositioned on time,3.1
+94,Line 1 - Assembly,7,2026-10-05,J. Patel,Set in Order,Tools shadow-boarded and labeled,3.3
+95,Line 1 - Assembly,7,2026-10-05,J. Patel,Set in Order,Materials have marked home locations,3.6
+96,Line 1 - Assembly,7,2026-10-05,J. Patel,Set in Order,Walkways clear and marked,3.3
+97,Line 1 - Assembly,7,2026-10-05,J. Patel,Shine,Floors and equipment cleaned per schedule,3.6
+98,Line 1 - Assembly,7,2026-10-05,J. Patel,Shine,Cleaning supplies stocked at point of use,4.1
+99,Line 1 - Assembly,7,2026-10-05,J. Patel,Shine,Leaks and spills addressed same shift,3.6
+100,Line 1 - Assembly,7,2026-10-05,J. Patel,Standardize,Visual standards posted at the line,3.7
+101,Line 1 - Assembly,7,2026-10-05,J. Patel,Standardize,Checklists current and followed,3.2
+102,Line 1 - Assembly,7,2026-10-05,J. Patel,Standardize,Shift handover log complete,3.4
+103,Line 1 - Assembly,7,2026-10-05,J. Patel,Sustain,Audit findings closed on time,3.0
+104,Line 1 - Assembly,7,2026-10-05,J. Patel,Sustain,Team participates in weekly 5S huddles,3.2
+105,Line 1 - Assembly,7,2026-10-05,J. Patel,Sustain,5S board updated weekly,3.5
+106,Line 1 - Assembly,8,2026-10-12,J. Patel,Sort,Unneeded items removed from workstations,3.2
+107,Line 1 - Assembly,8,2026-10-12,J. Patel,Sort,Red-tag holding area maintained,3.8
+108,Line 1 - Assembly,8,2026-10-12,J. Patel,Sort,Obsolete materials dispositioned on time,3.7
+109,Line 1 - Assembly,8,2026-10-12,J. Patel,Set in Order,Tools shadow-boarded and labeled,3.6
+110,Line 1 - Assembly,8,2026-10-12,J. Patel,Set in Order,Materials have marked home locations,3.4
+111,Line 1 - Assembly,8,2026-10-12,J. Patel,Set in Order,Walkways clear and marked,3.8
+112,Line 1 - Assembly,8,2026-10-12,J. Patel,Shine,Floors and equipment cleaned per schedule,3.8
+113,Line 1 - Assembly,8,2026-10-12,J. Patel,Shine,Cleaning supplies stocked at point of use,4.0
+114,Line 1 - Assembly,8,2026-10-12,J. Patel,Shine,Leaks and spills addressed same shift,4.0
+115,Line 1 - Assembly,8,2026-10-12,J. Patel,Standardize,Visual standards posted at the line,4.1
+116,Line 1 - Assembly,8,2026-10-12,J. Patel,Standardize,Checklists current and followed,3.7
+117,Line 1 - Assembly,8,2026-10-12,J. Patel,Standardize,Shift handover log complete,3.5
+118,Line 1 - Assembly,8,2026-10-12,J. Patel,Sustain,Audit findings closed on time,3.6
+119,Line 1 - Assembly,8,2026-10-12,J. Patel,Sustain,Team participates in weekly 5S huddles,3.6
+120,Line 1 - Assembly,8,2026-10-12,J. Patel,Sustain,5S board updated weekly,3.9
+121,Line 1 - Assembly,9,2026-10-19,A. Chen,Sort,Unneeded items removed from workstations,4.0
+122,Line 1 - Assembly,9,2026-10-19,A. Chen,Sort,Red-tag holding area maintained,4.3
+123,Line 1 - Assembly,9,2026-10-19,A. Chen,Sort,Obsolete materials dispositioned on time,3.6
+124,Line 1 - Assembly,9,2026-10-19,A. Chen,Set in Order,Tools shadow-boarded and labeled,3.9
+125,Line 1 - Assembly,9,2026-10-19,A. Chen,Set in Order,Materials have marked home locations,3.8
+126,Line 1 - Assembly,9,2026-10-19,A. Chen,Set in Order,Walkways clear and marked,3.9
+127,Line 1 - Assembly,9,2026-10-19,A. Chen,Shine,Floors and equipment cleaned per schedule,3.9
+128,Line 1 - Assembly,9,2026-10-19,A. Chen,Shine,Cleaning supplies stocked at point of use,4.4
+129,Line 1 - Assembly,9,2026-10-19,A. Chen,Shine,Leaks and spills addressed same shift,4.2
+130,Line 1 - Assembly,9,2026-10-19,A. Chen,Standardize,Visual standards posted at the line,3.6
+131,Line 1 - Assembly,9,2026-10-19,A. Chen,Standardize,Checklists current and followed,3.7
+132,Line 1 - Assembly,9,2026-10-19,A. Chen,Standardize,Shift handover log complete,4.0
+133,Line 1 - Assembly,9,2026-10-19,A. Chen,Sustain,Audit findings closed on time,4.0
+134,Line 1 - Assembly,9,2026-10-19,A. Chen,Sustain,Team participates in weekly 5S huddles,4.3
+135,Line 1 - Assembly,9,2026-10-19,A. Chen,Sustain,5S board updated weekly,4.5
+136,Line 1 - Assembly,10,2026-10-26,M. Ortiz,Sort,Unneeded items removed from workstations,4.3
+137,Line 1 - Assembly,10,2026-10-26,M. Ortiz,Sort,Red-tag holding area maintained,3.9
+138,Line 1 - Assembly,10,2026-10-26,M. Ortiz,Sort,Obsolete materials dispositioned on time,3.6
+139,Line 1 - Assembly,10,2026-10-26,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,4.3
+140,Line 1 - Assembly,10,2026-10-26,M. Ortiz,Set in Order,Materials have marked home locations,4.0
+141,Line 1 - Assembly,10,2026-10-26,M. Ortiz,Set in Order,Walkways clear and marked,4.1
+142,Line 1 - Assembly,10,2026-10-26,M. Ortiz,Shine,Floors and equipment cleaned per schedule,4.3
+143,Line 1 - Assembly,10,2026-10-26,M. Ortiz,Shine,Cleaning supplies stocked at point of use,4.4
+144,Line 1 - Assembly,10,2026-10-26,M. Ortiz,Shine,Leaks and spills addressed same shift,4.7
+145,Line 1 - Assembly,10,2026-10-26,M. Ortiz,Standardize,Visual standards posted at the line,4.2
+146,Line 1 - Assembly,10,2026-10-26,M. Ortiz,Standardize,Checklists current and followed,4.2
+147,Line 1 - Assembly,10,2026-10-26,M. Ortiz,Standardize,Shift handover log complete,3.9
+148,Line 1 - Assembly,10,2026-10-26,M. Ortiz,Sustain,Audit findings closed on time,3.6
+149,Line 1 - Assembly,10,2026-10-26,M. Ortiz,Sustain,Team participates in weekly 5S huddles,3.9
+150,Line 1 - Assembly,10,2026-10-26,M. Ortiz,Sustain,5S board updated weekly,4.0
+151,Line 1 - Assembly,11,2026-11-02,J. Patel,Sort,Unneeded items removed from workstations,4.4
+152,Line 1 - Assembly,11,2026-11-02,J. Patel,Sort,Red-tag holding area maintained,4.6
+153,Line 1 - Assembly,11,2026-11-02,J. Patel,Sort,Obsolete materials dispositioned on time,4.3
+154,Line 1 - Assembly,11,2026-11-02,J. Patel,Set in Order,Tools shadow-boarded and labeled,4.2
+155,Line 1 - Assembly,11,2026-11-02,J. Patel,Set in Order,Materials have marked home locations,4.2
+156,Line 1 - Assembly,11,2026-11-02,J. Patel,Set in Order,Walkways clear and marked,4.3
+157,Line 1 - Assembly,11,2026-11-02,J. Patel,Shine,Floors and equipment cleaned per schedule,5.0
+158,Line 1 - Assembly,11,2026-11-02,J. Patel,Shine,Cleaning supplies stocked at point of use,4.5
+159,Line 1 - Assembly,11,2026-11-02,J. Patel,Shine,Leaks and spills addressed same shift,4.9
+160,Line 1 - Assembly,11,2026-11-02,J. Patel,Standardize,Visual standards posted at the line,4.2
+161,Line 1 - Assembly,11,2026-11-02,J. Patel,Standardize,Checklists current and followed,4.7
+162,Line 1 - Assembly,11,2026-11-02,J. Patel,Standardize,Shift handover log complete,4.5
+163,Line 1 - Assembly,11,2026-11-02,J. Patel,Sustain,Audit findings closed on time,4.2
+164,Line 1 - Assembly,11,2026-11-02,J. Patel,Sustain,Team participates in weekly 5S huddles,4.2
+165,Line 1 - Assembly,11,2026-11-02,J. Patel,Sustain,5S board updated weekly,4.1
+166,Line 1 - Assembly,12,2026-11-09,J. Patel,Sort,Unneeded items removed from workstations,4.7
+167,Line 1 - Assembly,12,2026-11-09,J. Patel,Sort,Red-tag holding area maintained,4.5
+168,Line 1 - Assembly,12,2026-11-09,J. Patel,Sort,Obsolete materials dispositioned on time,4.3
+169,Line 1 - Assembly,12,2026-11-09,J. Patel,Set in Order,Tools shadow-boarded and labeled,4.4
+170,Line 1 - Assembly,12,2026-11-09,J. Patel,Set in Order,Materials have marked home locations,4.8
+171,Line 1 - Assembly,12,2026-11-09,J. Patel,Set in Order,Walkways clear and marked,5.0
+172,Line 1 - Assembly,12,2026-11-09,J. Patel,Shine,Floors and equipment cleaned per schedule,5.0
+173,Line 1 - Assembly,12,2026-11-09,J. Patel,Shine,Cleaning supplies stocked at point of use,4.9
+174,Line 1 - Assembly,12,2026-11-09,J. Patel,Shine,Leaks and spills addressed same shift,5.0
+175,Line 1 - Assembly,12,2026-11-09,J. Patel,Standardize,Visual standards posted at the line,5.0
+176,Line 1 - Assembly,12,2026-11-09,J. Patel,Standardize,Checklists current and followed,4.7
+177,Line 1 - Assembly,12,2026-11-09,J. Patel,Standardize,Shift handover log complete,4.6
+178,Line 1 - Assembly,12,2026-11-09,J. Patel,Sustain,Audit findings closed on time,4.8
+179,Line 1 - Assembly,12,2026-11-09,J. Patel,Sustain,Team participates in weekly 5S huddles,4.6
+180,Line 1 - Assembly,12,2026-11-09,J. Patel,Sustain,5S board updated weekly,4.9
+181,Line 2 - Assembly,1,2026-08-24,M. Ortiz,Sort,Unneeded items removed from workstations,2.9
+182,Line 2 - Assembly,1,2026-08-24,M. Ortiz,Sort,Red-tag holding area maintained,2.9
+183,Line 2 - Assembly,1,2026-08-24,M. Ortiz,Sort,Obsolete materials dispositioned on time,3.6
+184,Line 2 - Assembly,1,2026-08-24,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,3.7
+185,Line 2 - Assembly,1,2026-08-24,M. Ortiz,Set in Order,Materials have marked home locations,3.3
+186,Line 2 - Assembly,1,2026-08-24,M. Ortiz,Set in Order,Walkways clear and marked,3.2
+187,Line 2 - Assembly,1,2026-08-24,M. Ortiz,Shine,Floors and equipment cleaned per schedule,3.9
+188,Line 2 - Assembly,1,2026-08-24,M. Ortiz,Shine,Cleaning supplies stocked at point of use,3.2
+189,Line 2 - Assembly,1,2026-08-24,M. Ortiz,Shine,Leaks and spills addressed same shift,3.3
+190,Line 2 - Assembly,1,2026-08-24,M. Ortiz,Standardize,Visual standards posted at the line,3.4
+191,Line 2 - Assembly,1,2026-08-24,M. Ortiz,Standardize,Checklists current and followed,3.2
+192,Line 2 - Assembly,1,2026-08-24,M. Ortiz,Standardize,Shift handover log complete,3.2
+193,Line 2 - Assembly,1,2026-08-24,M. Ortiz,Sustain,Audit findings closed on time,3.0
+194,Line 2 - Assembly,1,2026-08-24,M. Ortiz,Sustain,Team participates in weekly 5S huddles,3.1
+195,Line 2 - Assembly,1,2026-08-24,M. Ortiz,Sustain,5S board updated weekly,3.4
+196,Line 2 - Assembly,2,2026-08-31,M. Ortiz,Sort,Unneeded items removed from workstations,3.2
+197,Line 2 - Assembly,2,2026-08-31,M. Ortiz,Sort,Red-tag holding area maintained,3.4
+198,Line 2 - Assembly,2,2026-08-31,M. Ortiz,Sort,Obsolete materials dispositioned on time,2.7
+199,Line 2 - Assembly,2,2026-08-31,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,3.3
+200,Line 2 - Assembly,2,2026-08-31,M. Ortiz,Set in Order,Materials have marked home locations,3.1
+201,Line 2 - Assembly,2,2026-08-31,M. Ortiz,Set in Order,Walkways clear and marked,3.0
+202,Line 2 - Assembly,2,2026-08-31,M. Ortiz,Shine,Floors and equipment cleaned per schedule,3.3
+203,Line 2 - Assembly,2,2026-08-31,M. Ortiz,Shine,Cleaning supplies stocked at point of use,3.4
+204,Line 2 - Assembly,2,2026-08-31,M. Ortiz,Shine,Leaks and spills addressed same shift,3.7
+205,Line 2 - Assembly,2,2026-08-31,M. Ortiz,Standardize,Visual standards posted at the line,2.9
+206,Line 2 - Assembly,2,2026-08-31,M. Ortiz,Standardize,Checklists current and followed,3.3
+207,Line 2 - Assembly,2,2026-08-31,M. Ortiz,Standardize,Shift handover log complete,3.1
+208,Line 2 - Assembly,2,2026-08-31,M. Ortiz,Sustain,Audit findings closed on time,3.0
+209,Line 2 - Assembly,2,2026-08-31,M. Ortiz,Sustain,Team participates in weekly 5S huddles,3.3
+210,Line 2 - Assembly,2,2026-08-31,M. Ortiz,Sustain,5S board updated weekly,3.2
+211,Line 2 - Assembly,3,2026-09-07,M. Ortiz,Sort,Unneeded items removed from workstations,3.2
+212,Line 2 - Assembly,3,2026-09-07,M. Ortiz,Sort,Red-tag holding area maintained,3.0
+213,Line 2 - Assembly,3,2026-09-07,M. Ortiz,Sort,Obsolete materials dispositioned on time,3.1
+214,Line 2 - Assembly,3,2026-09-07,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,3.4
+215,Line 2 - Assembly,3,2026-09-07,M. Ortiz,Set in Order,Materials have marked home locations,3.3
+216,Line 2 - Assembly,3,2026-09-07,M. Ortiz,Set in Order,Walkways clear and marked,3.0
+217,Line 2 - Assembly,3,2026-09-07,M. Ortiz,Shine,Floors and equipment cleaned per schedule,3.5
+218,Line 2 - Assembly,3,2026-09-07,M. Ortiz,Shine,Cleaning supplies stocked at point of use,3.6
+219,Line 2 - Assembly,3,2026-09-07,M. Ortiz,Shine,Leaks and spills addressed same shift,4.1
+220,Line 2 - Assembly,3,2026-09-07,M. Ortiz,Standardize,Visual standards posted at the line,3.7
+221,Line 2 - Assembly,3,2026-09-07,M. Ortiz,Standardize,Checklists current and followed,3.0
+222,Line 2 - Assembly,3,2026-09-07,M. Ortiz,Standardize,Shift handover log complete,3.2
+223,Line 2 - Assembly,3,2026-09-07,M. Ortiz,Sustain,Audit findings closed on time,2.7
+224,Line 2 - Assembly,3,2026-09-07,M. Ortiz,Sustain,Team participates in weekly 5S huddles,2.9
+225,Line 2 - Assembly,3,2026-09-07,M. Ortiz,Sustain,5S board updated weekly,3.1
+226,Line 2 - Assembly,4,2026-09-14,S. Novak,Sort,Unneeded items removed from workstations,3.5
+227,Line 2 - Assembly,4,2026-09-14,S. Novak,Sort,Red-tag holding area maintained,3.0
+228,Line 2 - Assembly,4,2026-09-14,S. Novak,Sort,Obsolete materials dispositioned on time,3.0
+229,Line 2 - Assembly,4,2026-09-14,S. Novak,Set in Order,Tools shadow-boarded and labeled,2.8
+230,Line 2 - Assembly,4,2026-09-14,S. Novak,Set in Order,Materials have marked home locations,3.3
+231,Line 2 - Assembly,4,2026-09-14,S. Novak,Set in Order,Walkways clear and marked,3.0
+232,Line 2 - Assembly,4,2026-09-14,S. Novak,Shine,Floors and equipment cleaned per schedule,3.4
+233,Line 2 - Assembly,4,2026-09-14,S. Novak,Shine,Cleaning supplies stocked at point of use,3.3
+234,Line 2 - Assembly,4,2026-09-14,S. Novak,Shine,Leaks and spills addressed same shift,3.5
+235,Line 2 - Assembly,4,2026-09-14,S. Novak,Standardize,Visual standards posted at the line,2.8
+236,Line 2 - Assembly,4,2026-09-14,S. Novak,Standardize,Checklists current and followed,2.9
+237,Line 2 - Assembly,4,2026-09-14,S. Novak,Standardize,Shift handover log complete,3.8
+238,Line 2 - Assembly,4,2026-09-14,S. Novak,Sustain,Audit findings closed on time,2.7
+239,Line 2 - Assembly,4,2026-09-14,S. Novak,Sustain,Team participates in weekly 5S huddles,2.8
+240,Line 2 - Assembly,4,2026-09-14,S. Novak,Sustain,5S board updated weekly,3.5
+241,Line 2 - Assembly,5,2026-09-21,S. Novak,Sort,Unneeded items removed from workstations,2.9
+242,Line 2 - Assembly,5,2026-09-21,S. Novak,Sort,Red-tag holding area maintained,3.1
+243,Line 2 - Assembly,5,2026-09-21,S. Novak,Sort,Obsolete materials dispositioned on time,3.3
+244,Line 2 - Assembly,5,2026-09-21,S. Novak,Set in Order,Tools shadow-boarded and labeled,3.7
+245,Line 2 - Assembly,5,2026-09-21,S. Novak,Set in Order,Materials have marked home locations,3.1
+246,Line 2 - Assembly,5,2026-09-21,S. Novak,Set in Order,Walkways clear and marked,3.2
+247,Line 2 - Assembly,5,2026-09-21,S. Novak,Shine,Floors and equipment cleaned per schedule,3.7
+248,Line 2 - Assembly,5,2026-09-21,S. Novak,Shine,Cleaning supplies stocked at point of use,3.6
+249,Line 2 - Assembly,5,2026-09-21,S. Novak,Shine,Leaks and spills addressed same shift,3.4
+250,Line 2 - Assembly,5,2026-09-21,S. Novak,Standardize,Visual standards posted at the line,3.2
+251,Line 2 - Assembly,5,2026-09-21,S. Novak,Standardize,Checklists current and followed,2.9
+252,Line 2 - Assembly,5,2026-09-21,S. Novak,Standardize,Shift handover log complete,3.2
+253,Line 2 - Assembly,5,2026-09-21,S. Novak,Sustain,Audit findings closed on time,3.0
+254,Line 2 - Assembly,5,2026-09-21,S. Novak,Sustain,Team participates in weekly 5S huddles,3.1
+255,Line 2 - Assembly,5,2026-09-21,S. Novak,Sustain,5S board updated weekly,2.9
+256,Line 2 - Assembly,6,2026-09-28,A. Chen,Sort,Unneeded items removed from workstations,3.3
+257,Line 2 - Assembly,6,2026-09-28,A. Chen,Sort,Red-tag holding area maintained,3.5
+258,Line 2 - Assembly,6,2026-09-28,A. Chen,Sort,Obsolete materials dispositioned on time,3.2
+259,Line 2 - Assembly,6,2026-09-28,A. Chen,Set in Order,Tools shadow-boarded and labeled,3.4
+260,Line 2 - Assembly,6,2026-09-28,A. Chen,Set in Order,Materials have marked home locations,3.3
+261,Line 2 - Assembly,6,2026-09-28,A. Chen,Set in Order,Walkways clear and marked,3.3
+262,Line 2 - Assembly,6,2026-09-28,A. Chen,Shine,Floors and equipment cleaned per schedule,3.3
+263,Line 2 - Assembly,6,2026-09-28,A. Chen,Shine,Cleaning supplies stocked at point of use,3.6
+264,Line 2 - Assembly,6,2026-09-28,A. Chen,Shine,Leaks and spills addressed same shift,3.5
+265,Line 2 - Assembly,6,2026-09-28,A. Chen,Standardize,Visual standards posted at the line,3.8
+266,Line 2 - Assembly,6,2026-09-28,A. Chen,Standardize,Checklists current and followed,3.6
+267,Line 2 - Assembly,6,2026-09-28,A. Chen,Standardize,Shift handover log complete,3.3
+268,Line 2 - Assembly,6,2026-09-28,A. Chen,Sustain,Audit findings closed on time,2.9
+269,Line 2 - Assembly,6,2026-09-28,A. Chen,Sustain,Team participates in weekly 5S huddles,2.8
+270,Line 2 - Assembly,6,2026-09-28,A. Chen,Sustain,5S board updated weekly,3.3
+271,Line 2 - Assembly,7,2026-10-05,A. Chen,Sort,Unneeded items removed from workstations,3.4
+272,Line 2 - Assembly,7,2026-10-05,A. Chen,Sort,Red-tag holding area maintained,2.9
+273,Line 2 - Assembly,7,2026-10-05,A. Chen,Sort,Obsolete materials dispositioned on time,3.5
+274,Line 2 - Assembly,7,2026-10-05,A. Chen,Set in Order,Tools shadow-boarded and labeled,3.5
+275,Line 2 - Assembly,7,2026-10-05,A. Chen,Set in Order,Materials have marked home locations,3.1
+276,Line 2 - Assembly,7,2026-10-05,A. Chen,Set in Order,Walkways clear and marked,3.3
+277,Line 2 - Assembly,7,2026-10-05,A. Chen,Shine,Floors and equipment cleaned per schedule,3.7
+278,Line 2 - Assembly,7,2026-10-05,A. Chen,Shine,Cleaning supplies stocked at point of use,3.6
+279,Line 2 - Assembly,7,2026-10-05,A. Chen,Shine,Leaks and spills addressed same shift,3.5
+280,Line 2 - Assembly,7,2026-10-05,A. Chen,Standardize,Visual standards posted at the line,3.3
+281,Line 2 - Assembly,7,2026-10-05,A. Chen,Standardize,Checklists current and followed,3.3
+282,Line 2 - Assembly,7,2026-10-05,A. Chen,Standardize,Shift handover log complete,3.4
+283,Line 2 - Assembly,7,2026-10-05,A. Chen,Sustain,Audit findings closed on time,3.5
+284,Line 2 - Assembly,7,2026-10-05,A. Chen,Sustain,Team participates in weekly 5S huddles,2.5
+285,Line 2 - Assembly,7,2026-10-05,A. Chen,Sustain,5S board updated weekly,3.1
+286,Line 2 - Assembly,8,2026-10-12,A. Chen,Sort,Unneeded items removed from workstations,3.4
+287,Line 2 - Assembly,8,2026-10-12,A. Chen,Sort,Red-tag holding area maintained,3.5
+288,Line 2 - Assembly,8,2026-10-12,A. Chen,Sort,Obsolete materials dispositioned on time,3.3
+289,Line 2 - Assembly,8,2026-10-12,A. Chen,Set in Order,Tools shadow-boarded and labeled,3.1
+290,Line 2 - Assembly,8,2026-10-12,A. Chen,Set in Order,Materials have marked home locations,3.6
+291,Line 2 - Assembly,8,2026-10-12,A. Chen,Set in Order,Walkways clear and marked,3.9
+292,Line 2 - Assembly,8,2026-10-12,A. Chen,Shine,Floors and equipment cleaned per schedule,3.3
+293,Line 2 - Assembly,8,2026-10-12,A. Chen,Shine,Cleaning supplies stocked at point of use,3.9
+294,Line 2 - Assembly,8,2026-10-12,A. Chen,Shine,Leaks and spills addressed same shift,3.6
+295,Line 2 - Assembly,8,2026-10-12,A. Chen,Standardize,Visual standards posted at the line,3.4
+296,Line 2 - Assembly,8,2026-10-12,A. Chen,Standardize,Checklists current and followed,3.2
+297,Line 2 - Assembly,8,2026-10-12,A. Chen,Standardize,Shift handover log complete,3.4
+298,Line 2 - Assembly,8,2026-10-12,A. Chen,Sustain,Audit findings closed on time,3.6
+299,Line 2 - Assembly,8,2026-10-12,A. Chen,Sustain,Team participates in weekly 5S huddles,3.4
+300,Line 2 - Assembly,8,2026-10-12,A. Chen,Sustain,5S board updated weekly,3.7
+301,Line 2 - Assembly,9,2026-10-19,S. Novak,Sort,Unneeded items removed from workstations,3.6
+302,Line 2 - Assembly,9,2026-10-19,S. Novak,Sort,Red-tag holding area maintained,3.9
+303,Line 2 - Assembly,9,2026-10-19,S. Novak,Sort,Obsolete materials dispositioned on time,3.6
+304,Line 2 - Assembly,9,2026-10-19,S. Novak,Set in Order,Tools shadow-boarded and labeled,3.8
+305,Line 2 - Assembly,9,2026-10-19,S. Novak,Set in Order,Materials have marked home locations,3.5
+306,Line 2 - Assembly,9,2026-10-19,S. Novak,Set in Order,Walkways clear and marked,3.6
+307,Line 2 - Assembly,9,2026-10-19,S. Novak,Shine,Floors and equipment cleaned per schedule,3.6
+308,Line 2 - Assembly,9,2026-10-19,S. Novak,Shine,Cleaning supplies stocked at point of use,4.0
+309,Line 2 - Assembly,9,2026-10-19,S. Novak,Shine,Leaks and spills addressed same shift,3.5
+310,Line 2 - Assembly,9,2026-10-19,S. Novak,Standardize,Visual standards posted at the line,3.7
+311,Line 2 - Assembly,9,2026-10-19,S. Novak,Standardize,Checklists current and followed,3.5
+312,Line 2 - Assembly,9,2026-10-19,S. Novak,Standardize,Shift handover log complete,3.8
+313,Line 2 - Assembly,9,2026-10-19,S. Novak,Sustain,Audit findings closed on time,3.5
+314,Line 2 - Assembly,9,2026-10-19,S. Novak,Sustain,Team participates in weekly 5S huddles,3.8
+315,Line 2 - Assembly,9,2026-10-19,S. Novak,Sustain,5S board updated weekly,3.5
+316,Line 2 - Assembly,10,2026-10-26,M. Ortiz,Sort,Unneeded items removed from workstations,3.2
+317,Line 2 - Assembly,10,2026-10-26,M. Ortiz,Sort,Red-tag holding area maintained,3.6
+318,Line 2 - Assembly,10,2026-10-26,M. Ortiz,Sort,Obsolete materials dispositioned on time,3.3
+319,Line 2 - Assembly,10,2026-10-26,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,3.6
+320,Line 2 - Assembly,10,2026-10-26,M. Ortiz,Set in Order,Materials have marked home locations,4.1
+321,Line 2 - Assembly,10,2026-10-26,M. Ortiz,Set in Order,Walkways clear and marked,3.9
+322,Line 2 - Assembly,10,2026-10-26,M. Ortiz,Shine,Floors and equipment cleaned per schedule,3.7
+323,Line 2 - Assembly,10,2026-10-26,M. Ortiz,Shine,Cleaning supplies stocked at point of use,3.6
+324,Line 2 - Assembly,10,2026-10-26,M. Ortiz,Shine,Leaks and spills addressed same shift,3.9
+325,Line 2 - Assembly,10,2026-10-26,M. Ortiz,Standardize,Visual standards posted at the line,3.3
+326,Line 2 - Assembly,10,2026-10-26,M. Ortiz,Standardize,Checklists current and followed,3.5
+327,Line 2 - Assembly,10,2026-10-26,M. Ortiz,Standardize,Shift handover log complete,3.7
+328,Line 2 - Assembly,10,2026-10-26,M. Ortiz,Sustain,Audit findings closed on time,3.7
+329,Line 2 - Assembly,10,2026-10-26,M. Ortiz,Sustain,Team participates in weekly 5S huddles,3.6
+330,Line 2 - Assembly,10,2026-10-26,M. Ortiz,Sustain,5S board updated weekly,2.9
+331,Line 2 - Assembly,11,2026-11-02,J. Patel,Sort,Unneeded items removed from workstations,3.7
+332,Line 2 - Assembly,11,2026-11-02,J. Patel,Sort,Red-tag holding area maintained,3.8
+333,Line 2 - Assembly,11,2026-11-02,J. Patel,Sort,Obsolete materials dispositioned on time,4.1
+334,Line 2 - Assembly,11,2026-11-02,J. Patel,Set in Order,Tools shadow-boarded and labeled,3.3
+335,Line 2 - Assembly,11,2026-11-02,J. Patel,Set in Order,Materials have marked home locations,3.7
+336,Line 2 - Assembly,11,2026-11-02,J. Patel,Set in Order,Walkways clear and marked,3.9
+337,Line 2 - Assembly,11,2026-11-02,J. Patel,Shine,Floors and equipment cleaned per schedule,3.6
+338,Line 2 - Assembly,11,2026-11-02,J. Patel,Shine,Cleaning supplies stocked at point of use,4.4
+339,Line 2 - Assembly,11,2026-11-02,J. Patel,Shine,Leaks and spills addressed same shift,4.1
+340,Line 2 - Assembly,11,2026-11-02,J. Patel,Standardize,Visual standards posted at the line,4.0
+341,Line 2 - Assembly,11,2026-11-02,J. Patel,Standardize,Checklists current and followed,3.6
+342,Line 2 - Assembly,11,2026-11-02,J. Patel,Standardize,Shift handover log complete,4.0
+343,Line 2 - Assembly,11,2026-11-02,J. Patel,Sustain,Audit findings closed on time,3.8
+344,Line 2 - Assembly,11,2026-11-02,J. Patel,Sustain,Team participates in weekly 5S huddles,3.6
+345,Line 2 - Assembly,11,2026-11-02,J. Patel,Sustain,5S board updated weekly,3.6
+346,Line 2 - Assembly,12,2026-11-09,J. Patel,Sort,Unneeded items removed from workstations,3.9
+347,Line 2 - Assembly,12,2026-11-09,J. Patel,Sort,Red-tag holding area maintained,3.6
+348,Line 2 - Assembly,12,2026-11-09,J. Patel,Sort,Obsolete materials dispositioned on time,3.8
+349,Line 2 - Assembly,12,2026-11-09,J. Patel,Set in Order,Tools shadow-boarded and labeled,3.9
+350,Line 2 - Assembly,12,2026-11-09,J. Patel,Set in Order,Materials have marked home locations,4.0
+351,Line 2 - Assembly,12,2026-11-09,J. Patel,Set in Order,Walkways clear and marked,4.1
+352,Line 2 - Assembly,12,2026-11-09,J. Patel,Shine,Floors and equipment cleaned per schedule,3.8
+353,Line 2 - Assembly,12,2026-11-09,J. Patel,Shine,Cleaning supplies stocked at point of use,4.1
+354,Line 2 - Assembly,12,2026-11-09,J. Patel,Shine,Leaks and spills addressed same shift,4.5
+355,Line 2 - Assembly,12,2026-11-09,J. Patel,Standardize,Visual standards posted at the line,3.7
+356,Line 2 - Assembly,12,2026-11-09,J. Patel,Standardize,Checklists current and followed,3.6
+357,Line 2 - Assembly,12,2026-11-09,J. Patel,Standardize,Shift handover log complete,3.9
+358,Line 2 - Assembly,12,2026-11-09,J. Patel,Sustain,Audit findings closed on time,3.9
+359,Line 2 - Assembly,12,2026-11-09,J. Patel,Sustain,Team participates in weekly 5S huddles,3.7
+360,Line 2 - Assembly,12,2026-11-09,J. Patel,Sustain,5S board updated weekly,4.0
+361,Line 3 - Packaging,1,2026-08-24,A. Chen,Sort,Unneeded items removed from workstations,3.6
+362,Line 3 - Packaging,1,2026-08-24,A. Chen,Sort,Red-tag holding area maintained,3.5
+363,Line 3 - Packaging,1,2026-08-24,A. Chen,Sort,Obsolete materials dispositioned on time,3.9
+364,Line 3 - Packaging,1,2026-08-24,A. Chen,Set in Order,Tools shadow-boarded and labeled,3.4
+365,Line 3 - Packaging,1,2026-08-24,A. Chen,Set in Order,Materials have marked home locations,2.9
+366,Line 3 - Packaging,1,2026-08-24,A. Chen,Set in Order,Walkways clear and marked,3.9
+367,Line 3 - Packaging,1,2026-08-24,A. Chen,Shine,Floors and equipment cleaned per schedule,3.5
+368,Line 3 - Packaging,1,2026-08-24,A. Chen,Shine,Cleaning supplies stocked at point of use,3.7
+369,Line 3 - Packaging,1,2026-08-24,A. Chen,Shine,Leaks and spills addressed same shift,4.0
+370,Line 3 - Packaging,1,2026-08-24,A. Chen,Standardize,Visual standards posted at the line,3.0
+371,Line 3 - Packaging,1,2026-08-24,A. Chen,Standardize,Checklists current and followed,3.1
+372,Line 3 - Packaging,1,2026-08-24,A. Chen,Standardize,Shift handover log complete,3.0
+373,Line 3 - Packaging,1,2026-08-24,A. Chen,Sustain,Audit findings closed on time,3.0
+374,Line 3 - Packaging,1,2026-08-24,A. Chen,Sustain,Team participates in weekly 5S huddles,3.3
+375,Line 3 - Packaging,1,2026-08-24,A. Chen,Sustain,5S board updated weekly,3.3
+376,Line 3 - Packaging,2,2026-08-31,J. Patel,Sort,Unneeded items removed from workstations,3.4
+377,Line 3 - Packaging,2,2026-08-31,J. Patel,Sort,Red-tag holding area maintained,3.0
+378,Line 3 - Packaging,2,2026-08-31,J. Patel,Sort,Obsolete materials dispositioned on time,2.8
+379,Line 3 - Packaging,2,2026-08-31,J. Patel,Set in Order,Tools shadow-boarded and labeled,3.5
+380,Line 3 - Packaging,2,2026-08-31,J. Patel,Set in Order,Materials have marked home locations,3.3
+381,Line 3 - Packaging,2,2026-08-31,J. Patel,Set in Order,Walkways clear and marked,3.6
+382,Line 3 - Packaging,2,2026-08-31,J. Patel,Shine,Floors and equipment cleaned per schedule,3.8
+383,Line 3 - Packaging,2,2026-08-31,J. Patel,Shine,Cleaning supplies stocked at point of use,3.7
+384,Line 3 - Packaging,2,2026-08-31,J. Patel,Shine,Leaks and spills addressed same shift,3.8
+385,Line 3 - Packaging,2,2026-08-31,J. Patel,Standardize,Visual standards posted at the line,3.5
+386,Line 3 - Packaging,2,2026-08-31,J. Patel,Standardize,Checklists current and followed,3.5
+387,Line 3 - Packaging,2,2026-08-31,J. Patel,Standardize,Shift handover log complete,3.2
+388,Line 3 - Packaging,2,2026-08-31,J. Patel,Sustain,Audit findings closed on time,3.2
+389,Line 3 - Packaging,2,2026-08-31,J. Patel,Sustain,Team participates in weekly 5S huddles,3.2
+390,Line 3 - Packaging,2,2026-08-31,J. Patel,Sustain,5S board updated weekly,3.4
+391,Line 3 - Packaging,3,2026-09-07,A. Chen,Sort,Unneeded items removed from workstations,3.5
+392,Line 3 - Packaging,3,2026-09-07,A. Chen,Sort,Red-tag holding area maintained,3.3
+393,Line 3 - Packaging,3,2026-09-07,A. Chen,Sort,Obsolete materials dispositioned on time,3.3
+394,Line 3 - Packaging,3,2026-09-07,A. Chen,Set in Order,Tools shadow-boarded and labeled,3.7
+395,Line 3 - Packaging,3,2026-09-07,A. Chen,Set in Order,Materials have marked home locations,3.0
+396,Line 3 - Packaging,3,2026-09-07,A. Chen,Set in Order,Walkways clear and marked,3.1
+397,Line 3 - Packaging,3,2026-09-07,A. Chen,Shine,Floors and equipment cleaned per schedule,3.3
+398,Line 3 - Packaging,3,2026-09-07,A. Chen,Shine,Cleaning supplies stocked at point of use,3.1
+399,Line 3 - Packaging,3,2026-09-07,A. Chen,Shine,Leaks and spills addressed same shift,3.5
+400,Line 3 - Packaging,3,2026-09-07,A. Chen,Standardize,Visual standards posted at the line,3.6
+401,Line 3 - Packaging,3,2026-09-07,A. Chen,Standardize,Checklists current and followed,3.3
+402,Line 3 - Packaging,3,2026-09-07,A. Chen,Standardize,Shift handover log complete,3.4
+403,Line 3 - Packaging,3,2026-09-07,A. Chen,Sustain,Audit findings closed on time,3.5
+404,Line 3 - Packaging,3,2026-09-07,A. Chen,Sustain,Team participates in weekly 5S huddles,3.5
+405,Line 3 - Packaging,3,2026-09-07,A. Chen,Sustain,5S board updated weekly,3.2
+406,Line 3 - Packaging,4,2026-09-14,S. Novak,Sort,Unneeded items removed from workstations,3.7
+407,Line 3 - Packaging,4,2026-09-14,S. Novak,Sort,Red-tag holding area maintained,3.4
+408,Line 3 - Packaging,4,2026-09-14,S. Novak,Sort,Obsolete materials dispositioned on time,3.1
+409,Line 3 - Packaging,4,2026-09-14,S. Novak,Set in Order,Tools shadow-boarded and labeled,3.3
+410,Line 3 - Packaging,4,2026-09-14,S. Novak,Set in Order,Materials have marked home locations,3.1
+411,Line 3 - Packaging,4,2026-09-14,S. Novak,Set in Order,Walkways clear and marked,3.2
+412,Line 3 - Packaging,4,2026-09-14,S. Novak,Shine,Floors and equipment cleaned per schedule,3.6
+413,Line 3 - Packaging,4,2026-09-14,S. Novak,Shine,Cleaning supplies stocked at point of use,3.9
+414,Line 3 - Packaging,4,2026-09-14,S. Novak,Shine,Leaks and spills addressed same shift,4.1
+415,Line 3 - Packaging,4,2026-09-14,S. Novak,Standardize,Visual standards posted at the line,3.1
+416,Line 3 - Packaging,4,2026-09-14,S. Novak,Standardize,Checklists current and followed,3.5
+417,Line 3 - Packaging,4,2026-09-14,S. Novak,Standardize,Shift handover log complete,3.1
+418,Line 3 - Packaging,4,2026-09-14,S. Novak,Sustain,Audit findings closed on time,3.3
+419,Line 3 - Packaging,4,2026-09-14,S. Novak,Sustain,Team participates in weekly 5S huddles,3.2
+420,Line 3 - Packaging,4,2026-09-14,S. Novak,Sustain,5S board updated weekly,2.7
+421,Line 3 - Packaging,5,2026-09-21,M. Ortiz,Sort,Unneeded items removed from workstations,3.2
+422,Line 3 - Packaging,5,2026-09-21,M. Ortiz,Sort,Red-tag holding area maintained,3.2
+423,Line 3 - Packaging,5,2026-09-21,M. Ortiz,Sort,Obsolete materials dispositioned on time,3.1
+424,Line 3 - Packaging,5,2026-09-21,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,3.3
+425,Line 3 - Packaging,5,2026-09-21,M. Ortiz,Set in Order,Materials have marked home locations,3.6
+426,Line 3 - Packaging,5,2026-09-21,M. Ortiz,Set in Order,Walkways clear and marked,3.4
+427,Line 3 - Packaging,5,2026-09-21,M. Ortiz,Shine,Floors and equipment cleaned per schedule,3.7
+428,Line 3 - Packaging,5,2026-09-21,M. Ortiz,Shine,Cleaning supplies stocked at point of use,3.7
+429,Line 3 - Packaging,5,2026-09-21,M. Ortiz,Shine,Leaks and spills addressed same shift,4.0
+430,Line 3 - Packaging,5,2026-09-21,M. Ortiz,Standardize,Visual standards posted at the line,3.3
+431,Line 3 - Packaging,5,2026-09-21,M. Ortiz,Standardize,Checklists current and followed,3.0
+432,Line 3 - Packaging,5,2026-09-21,M. Ortiz,Standardize,Shift handover log complete,3.7
+433,Line 3 - Packaging,5,2026-09-21,M. Ortiz,Sustain,Audit findings closed on time,3.1
+434,Line 3 - Packaging,5,2026-09-21,M. Ortiz,Sustain,Team participates in weekly 5S huddles,3.5
+435,Line 3 - Packaging,5,2026-09-21,M. Ortiz,Sustain,5S board updated weekly,3.3
+436,Line 3 - Packaging,6,2026-09-28,A. Chen,Sort,Unneeded items removed from workstations,3.3
+437,Line 3 - Packaging,6,2026-09-28,A. Chen,Sort,Red-tag holding area maintained,3.4
+438,Line 3 - Packaging,6,2026-09-28,A. Chen,Sort,Obsolete materials dispositioned on time,3.8
+439,Line 3 - Packaging,6,2026-09-28,A. Chen,Set in Order,Tools shadow-boarded and labeled,4.0
+440,Line 3 - Packaging,6,2026-09-28,A. Chen,Set in Order,Materials have marked home locations,3.5
+441,Line 3 - Packaging,6,2026-09-28,A. Chen,Set in Order,Walkways clear and marked,3.5
+442,Line 3 - Packaging,6,2026-09-28,A. Chen,Shine,Floors and equipment cleaned per schedule,3.9
+443,Line 3 - Packaging,6,2026-09-28,A. Chen,Shine,Cleaning supplies stocked at point of use,3.4
+444,Line 3 - Packaging,6,2026-09-28,A. Chen,Shine,Leaks and spills addressed same shift,3.7
+445,Line 3 - Packaging,6,2026-09-28,A. Chen,Standardize,Visual standards posted at the line,3.4
+446,Line 3 - Packaging,6,2026-09-28,A. Chen,Standardize,Checklists current and followed,3.5
+447,Line 3 - Packaging,6,2026-09-28,A. Chen,Standardize,Shift handover log complete,3.2
+448,Line 3 - Packaging,6,2026-09-28,A. Chen,Sustain,Audit findings closed on time,2.8
+449,Line 3 - Packaging,6,2026-09-28,A. Chen,Sustain,Team participates in weekly 5S huddles,2.7
+450,Line 3 - Packaging,6,2026-09-28,A. Chen,Sustain,5S board updated weekly,2.9
+451,Line 3 - Packaging,7,2026-10-05,S. Novak,Sort,Unneeded items removed from workstations,3.3
+452,Line 3 - Packaging,7,2026-10-05,S. Novak,Sort,Red-tag holding area maintained,3.8
+453,Line 3 - Packaging,7,2026-10-05,S. Novak,Sort,Obsolete materials dispositioned on time,3.6
+454,Line 3 - Packaging,7,2026-10-05,S. Novak,Set in Order,Tools shadow-boarded and labeled,3.2
+455,Line 3 - Packaging,7,2026-10-05,S. Novak,Set in Order,Materials have marked home locations,3.5
+456,Line 3 - Packaging,7,2026-10-05,S. Novak,Set in Order,Walkways clear and marked,3.3
+457,Line 3 - Packaging,7,2026-10-05,S. Novak,Shine,Floors and equipment cleaned per schedule,3.6
+458,Line 3 - Packaging,7,2026-10-05,S. Novak,Shine,Cleaning supplies stocked at point of use,3.7
+459,Line 3 - Packaging,7,2026-10-05,S. Novak,Shine,Leaks and spills addressed same shift,3.8
+460,Line 3 - Packaging,7,2026-10-05,S. Novak,Standardize,Visual standards posted at the line,3.3
+461,Line 3 - Packaging,7,2026-10-05,S. Novak,Standardize,Checklists current and followed,3.7
+462,Line 3 - Packaging,7,2026-10-05,S. Novak,Standardize,Shift handover log complete,3.1
+463,Line 3 - Packaging,7,2026-10-05,S. Novak,Sustain,Audit findings closed on time,3.2
+464,Line 3 - Packaging,7,2026-10-05,S. Novak,Sustain,Team participates in weekly 5S huddles,3.8
+465,Line 3 - Packaging,7,2026-10-05,S. Novak,Sustain,5S board updated weekly,3.3
+466,Line 3 - Packaging,8,2026-10-12,A. Chen,Sort,Unneeded items removed from workstations,3.7
+467,Line 3 - Packaging,8,2026-10-12,A. Chen,Sort,Red-tag holding area maintained,3.4
+468,Line 3 - Packaging,8,2026-10-12,A. Chen,Sort,Obsolete materials dispositioned on time,3.5
+469,Line 3 - Packaging,8,2026-10-12,A. Chen,Set in Order,Tools shadow-boarded and labeled,3.4
+470,Line 3 - Packaging,8,2026-10-12,A. Chen,Set in Order,Materials have marked home locations,3.4
+471,Line 3 - Packaging,8,2026-10-12,A. Chen,Set in Order,Walkways clear and marked,3.3
+472,Line 3 - Packaging,8,2026-10-12,A. Chen,Shine,Floors and equipment cleaned per schedule,3.8
+473,Line 3 - Packaging,8,2026-10-12,A. Chen,Shine,Cleaning supplies stocked at point of use,3.4
+474,Line 3 - Packaging,8,2026-10-12,A. Chen,Shine,Leaks and spills addressed same shift,3.8
+475,Line 3 - Packaging,8,2026-10-12,A. Chen,Standardize,Visual standards posted at the line,3.7
+476,Line 3 - Packaging,8,2026-10-12,A. Chen,Standardize,Checklists current and followed,3.5
+477,Line 3 - Packaging,8,2026-10-12,A. Chen,Standardize,Shift handover log complete,3.3
+478,Line 3 - Packaging,8,2026-10-12,A. Chen,Sustain,Audit findings closed on time,3.3
+479,Line 3 - Packaging,8,2026-10-12,A. Chen,Sustain,Team participates in weekly 5S huddles,3.1
+480,Line 3 - Packaging,8,2026-10-12,A. Chen,Sustain,5S board updated weekly,3.4
+481,Line 3 - Packaging,9,2026-10-19,A. Chen,Sort,Unneeded items removed from workstations,3.3
+482,Line 3 - Packaging,9,2026-10-19,A. Chen,Sort,Red-tag holding area maintained,2.9
+483,Line 3 - Packaging,9,2026-10-19,A. Chen,Sort,Obsolete materials dispositioned on time,3.0
+484,Line 3 - Packaging,9,2026-10-19,A. Chen,Set in Order,Tools shadow-boarded and labeled,3.8
+485,Line 3 - Packaging,9,2026-10-19,A. Chen,Set in Order,Materials have marked home locations,3.7
+486,Line 3 - Packaging,9,2026-10-19,A. Chen,Set in Order,Walkways clear and marked,3.3
+487,Line 3 - Packaging,9,2026-10-19,A. Chen,Shine,Floors and equipment cleaned per schedule,3.3
+488,Line 3 - Packaging,9,2026-10-19,A. Chen,Shine,Cleaning supplies stocked at point of use,2.9
+489,Line 3 - Packaging,9,2026-10-19,A. Chen,Shine,Leaks and spills addressed same shift,3.5
+490,Line 3 - Packaging,9,2026-10-19,A. Chen,Standardize,Visual standards posted at the line,4.0
+491,Line 3 - Packaging,9,2026-10-19,A. Chen,Standardize,Checklists current and followed,3.5
+492,Line 3 - Packaging,9,2026-10-19,A. Chen,Standardize,Shift handover log complete,3.3
+493,Line 3 - Packaging,9,2026-10-19,A. Chen,Sustain,Audit findings closed on time,3.3
+494,Line 3 - Packaging,9,2026-10-19,A. Chen,Sustain,Team participates in weekly 5S huddles,2.8
+495,Line 3 - Packaging,9,2026-10-19,A. Chen,Sustain,5S board updated weekly,3.1
+496,Line 3 - Packaging,10,2026-10-26,J. Patel,Sort,Unneeded items removed from workstations,3.4
+497,Line 3 - Packaging,10,2026-10-26,J. Patel,Sort,Red-tag holding area maintained,3.3
+498,Line 3 - Packaging,10,2026-10-26,J. Patel,Sort,Obsolete materials dispositioned on time,3.5
+499,Line 3 - Packaging,10,2026-10-26,J. Patel,Set in Order,Tools shadow-boarded and labeled,3.5
+500,Line 3 - Packaging,10,2026-10-26,J. Patel,Set in Order,Materials have marked home locations,3.6
+501,Line 3 - Packaging,10,2026-10-26,J. Patel,Set in Order,Walkways clear and marked,3.3
+502,Line 3 - Packaging,10,2026-10-26,J. Patel,Shine,Floors and equipment cleaned per schedule,3.9
+503,Line 3 - Packaging,10,2026-10-26,J. Patel,Shine,Cleaning supplies stocked at point of use,4.1
+504,Line 3 - Packaging,10,2026-10-26,J. Patel,Shine,Leaks and spills addressed same shift,3.4
+505,Line 3 - Packaging,10,2026-10-26,J. Patel,Standardize,Visual standards posted at the line,3.2
+506,Line 3 - Packaging,10,2026-10-26,J. Patel,Standardize,Checklists current and followed,3.7
+507,Line 3 - Packaging,10,2026-10-26,J. Patel,Standardize,Shift handover log complete,3.4
+508,Line 3 - Packaging,10,2026-10-26,J. Patel,Sustain,Audit findings closed on time,3.6
+509,Line 3 - Packaging,10,2026-10-26,J. Patel,Sustain,Team participates in weekly 5S huddles,3.1
+510,Line 3 - Packaging,10,2026-10-26,J. Patel,Sustain,5S board updated weekly,3.6
+511,Line 3 - Packaging,11,2026-11-02,S. Novak,Sort,Unneeded items removed from workstations,3.4
+512,Line 3 - Packaging,11,2026-11-02,S. Novak,Sort,Red-tag holding area maintained,3.7
+513,Line 3 - Packaging,11,2026-11-02,S. Novak,Sort,Obsolete materials dispositioned on time,3.3
+514,Line 3 - Packaging,11,2026-11-02,S. Novak,Set in Order,Tools shadow-boarded and labeled,3.2
+515,Line 3 - Packaging,11,2026-11-02,S. Novak,Set in Order,Materials have marked home locations,3.3
+516,Line 3 - Packaging,11,2026-11-02,S. Novak,Set in Order,Walkways clear and marked,3.6
+517,Line 3 - Packaging,11,2026-11-02,S. Novak,Shine,Floors and equipment cleaned per schedule,3.3
+518,Line 3 - Packaging,11,2026-11-02,S. Novak,Shine,Cleaning supplies stocked at point of use,3.8
+519,Line 3 - Packaging,11,2026-11-02,S. Novak,Shine,Leaks and spills addressed same shift,3.5
+520,Line 3 - Packaging,11,2026-11-02,S. Novak,Standardize,Visual standards posted at the line,3.7
+521,Line 3 - Packaging,11,2026-11-02,S. Novak,Standardize,Checklists current and followed,2.8
+522,Line 3 - Packaging,11,2026-11-02,S. Novak,Standardize,Shift handover log complete,3.2
+523,Line 3 - Packaging,11,2026-11-02,S. Novak,Sustain,Audit findings closed on time,2.8
+524,Line 3 - Packaging,11,2026-11-02,S. Novak,Sustain,Team participates in weekly 5S huddles,3.0
+525,Line 3 - Packaging,11,2026-11-02,S. Novak,Sustain,5S board updated weekly,3.3
+526,Line 3 - Packaging,12,2026-11-09,S. Novak,Sort,Unneeded items removed from workstations,3.3
+527,Line 3 - Packaging,12,2026-11-09,S. Novak,Sort,Red-tag holding area maintained,3.3
+528,Line 3 - Packaging,12,2026-11-09,S. Novak,Sort,Obsolete materials dispositioned on time,3.3
+529,Line 3 - Packaging,12,2026-11-09,S. Novak,Set in Order,Tools shadow-boarded and labeled,3.5
+530,Line 3 - Packaging,12,2026-11-09,S. Novak,Set in Order,Materials have marked home locations,3.2
+531,Line 3 - Packaging,12,2026-11-09,S. Novak,Set in Order,Walkways clear and marked,3.6
+532,Line 3 - Packaging,12,2026-11-09,S. Novak,Shine,Floors and equipment cleaned per schedule,3.8
+533,Line 3 - Packaging,12,2026-11-09,S. Novak,Shine,Cleaning supplies stocked at point of use,3.7
+534,Line 3 - Packaging,12,2026-11-09,S. Novak,Shine,Leaks and spills addressed same shift,3.8
+535,Line 3 - Packaging,12,2026-11-09,S. Novak,Standardize,Visual standards posted at the line,3.5
+536,Line 3 - Packaging,12,2026-11-09,S. Novak,Standardize,Checklists current and followed,3.9
+537,Line 3 - Packaging,12,2026-11-09,S. Novak,Standardize,Shift handover log complete,3.4
+538,Line 3 - Packaging,12,2026-11-09,S. Novak,Sustain,Audit findings closed on time,3.1
+539,Line 3 - Packaging,12,2026-11-09,S. Novak,Sustain,Team participates in weekly 5S huddles,3.0
+540,Line 3 - Packaging,12,2026-11-09,S. Novak,Sustain,5S board updated weekly,2.9
+541,Quality Lab,1,2026-08-24,M. Ortiz,Sort,Unneeded items removed from workstations,3.5
+542,Quality Lab,1,2026-08-24,M. Ortiz,Sort,Red-tag holding area maintained,3.7
+543,Quality Lab,1,2026-08-24,M. Ortiz,Sort,Obsolete materials dispositioned on time,3.8
+544,Quality Lab,1,2026-08-24,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,3.8
+545,Quality Lab,1,2026-08-24,M. Ortiz,Set in Order,Materials have marked home locations,3.6
+546,Quality Lab,1,2026-08-24,M. Ortiz,Set in Order,Walkways clear and marked,4.0
+547,Quality Lab,1,2026-08-24,M. Ortiz,Shine,Floors and equipment cleaned per schedule,4.2
+548,Quality Lab,1,2026-08-24,M. Ortiz,Shine,Cleaning supplies stocked at point of use,4.0
+549,Quality Lab,1,2026-08-24,M. Ortiz,Shine,Leaks and spills addressed same shift,3.8
+550,Quality Lab,1,2026-08-24,M. Ortiz,Standardize,Visual standards posted at the line,3.9
+551,Quality Lab,1,2026-08-24,M. Ortiz,Standardize,Checklists current and followed,3.8
+552,Quality Lab,1,2026-08-24,M. Ortiz,Standardize,Shift handover log complete,3.4
+553,Quality Lab,1,2026-08-24,M. Ortiz,Sustain,Audit findings closed on time,3.5
+554,Quality Lab,1,2026-08-24,M. Ortiz,Sustain,Team participates in weekly 5S huddles,3.6
+555,Quality Lab,1,2026-08-24,M. Ortiz,Sustain,5S board updated weekly,3.3
+556,Quality Lab,2,2026-08-31,M. Ortiz,Sort,Unneeded items removed from workstations,3.7
+557,Quality Lab,2,2026-08-31,M. Ortiz,Sort,Red-tag holding area maintained,3.3
+558,Quality Lab,2,2026-08-31,M. Ortiz,Sort,Obsolete materials dispositioned on time,4.0
+559,Quality Lab,2,2026-08-31,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,4.1
+560,Quality Lab,2,2026-08-31,M. Ortiz,Set in Order,Materials have marked home locations,3.7
+561,Quality Lab,2,2026-08-31,M. Ortiz,Set in Order,Walkways clear and marked,3.9
+562,Quality Lab,2,2026-08-31,M. Ortiz,Shine,Floors and equipment cleaned per schedule,3.4
+563,Quality Lab,2,2026-08-31,M. Ortiz,Shine,Cleaning supplies stocked at point of use,3.7
+564,Quality Lab,2,2026-08-31,M. Ortiz,Shine,Leaks and spills addressed same shift,3.9
+565,Quality Lab,2,2026-08-31,M. Ortiz,Standardize,Visual standards posted at the line,3.5
+566,Quality Lab,2,2026-08-31,M. Ortiz,Standardize,Checklists current and followed,3.9
+567,Quality Lab,2,2026-08-31,M. Ortiz,Standardize,Shift handover log complete,4.2
+568,Quality Lab,2,2026-08-31,M. Ortiz,Sustain,Audit findings closed on time,3.3
+569,Quality Lab,2,2026-08-31,M. Ortiz,Sustain,Team participates in weekly 5S huddles,3.3
+570,Quality Lab,2,2026-08-31,M. Ortiz,Sustain,5S board updated weekly,3.6
+571,Quality Lab,3,2026-09-07,M. Ortiz,Sort,Unneeded items removed from workstations,3.4
+572,Quality Lab,3,2026-09-07,M. Ortiz,Sort,Red-tag holding area maintained,3.8
+573,Quality Lab,3,2026-09-07,M. Ortiz,Sort,Obsolete materials dispositioned on time,4.2
+574,Quality Lab,3,2026-09-07,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,3.4
+575,Quality Lab,3,2026-09-07,M. Ortiz,Set in Order,Materials have marked home locations,3.5
+576,Quality Lab,3,2026-09-07,M. Ortiz,Set in Order,Walkways clear and marked,3.7
+577,Quality Lab,3,2026-09-07,M. Ortiz,Shine,Floors and equipment cleaned per schedule,3.9
+578,Quality Lab,3,2026-09-07,M. Ortiz,Shine,Cleaning supplies stocked at point of use,4.2
+579,Quality Lab,3,2026-09-07,M. Ortiz,Shine,Leaks and spills addressed same shift,4.1
+580,Quality Lab,3,2026-09-07,M. Ortiz,Standardize,Visual standards posted at the line,3.3
+581,Quality Lab,3,2026-09-07,M. Ortiz,Standardize,Checklists current and followed,3.9
+582,Quality Lab,3,2026-09-07,M. Ortiz,Standardize,Shift handover log complete,3.6
+583,Quality Lab,3,2026-09-07,M. Ortiz,Sustain,Audit findings closed on time,3.9
+584,Quality Lab,3,2026-09-07,M. Ortiz,Sustain,Team participates in weekly 5S huddles,3.4
+585,Quality Lab,3,2026-09-07,M. Ortiz,Sustain,5S board updated weekly,3.4
+586,Quality Lab,4,2026-09-14,S. Novak,Sort,Unneeded items removed from workstations,3.8
+587,Quality Lab,4,2026-09-14,S. Novak,Sort,Red-tag holding area maintained,3.9
+588,Quality Lab,4,2026-09-14,S. Novak,Sort,Obsolete materials dispositioned on time,3.8
+589,Quality Lab,4,2026-09-14,S. Novak,Set in Order,Tools shadow-boarded and labeled,3.4
+590,Quality Lab,4,2026-09-14,S. Novak,Set in Order,Materials have marked home locations,3.9
+591,Quality Lab,4,2026-09-14,S. Novak,Set in Order,Walkways clear and marked,3.5
+592,Quality Lab,4,2026-09-14,S. Novak,Shine,Floors and equipment cleaned per schedule,4.1
+593,Quality Lab,4,2026-09-14,S. Novak,Shine,Cleaning supplies stocked at point of use,3.6
+594,Quality Lab,4,2026-09-14,S. Novak,Shine,Leaks and spills addressed same shift,4.1
+595,Quality Lab,4,2026-09-14,S. Novak,Standardize,Visual standards posted at the line,3.5
+596,Quality Lab,4,2026-09-14,S. Novak,Standardize,Checklists current and followed,3.4
+597,Quality Lab,4,2026-09-14,S. Novak,Standardize,Shift handover log complete,3.9
+598,Quality Lab,4,2026-09-14,S. Novak,Sustain,Audit findings closed on time,3.6
+599,Quality Lab,4,2026-09-14,S. Novak,Sustain,Team participates in weekly 5S huddles,3.4
+600,Quality Lab,4,2026-09-14,S. Novak,Sustain,5S board updated weekly,3.9
+601,Quality Lab,5,2026-09-21,A. Chen,Sort,Unneeded items removed from workstations,3.7
+602,Quality Lab,5,2026-09-21,A. Chen,Sort,Red-tag holding area maintained,3.8
+603,Quality Lab,5,2026-09-21,A. Chen,Sort,Obsolete materials dispositioned on time,3.5
+604,Quality Lab,5,2026-09-21,A. Chen,Set in Order,Tools shadow-boarded and labeled,3.9
+605,Quality Lab,5,2026-09-21,A. Chen,Set in Order,Materials have marked home locations,3.7
+606,Quality Lab,5,2026-09-21,A. Chen,Set in Order,Walkways clear and marked,3.7
+607,Quality Lab,5,2026-09-21,A. Chen,Shine,Floors and equipment cleaned per schedule,4.3
+608,Quality Lab,5,2026-09-21,A. Chen,Shine,Cleaning supplies stocked at point of use,3.7
+609,Quality Lab,5,2026-09-21,A. Chen,Shine,Leaks and spills addressed same shift,3.4
+610,Quality Lab,5,2026-09-21,A. Chen,Standardize,Visual standards posted at the line,4.2
+611,Quality Lab,5,2026-09-21,A. Chen,Standardize,Checklists current and followed,4.4
+612,Quality Lab,5,2026-09-21,A. Chen,Standardize,Shift handover log complete,3.6
+613,Quality Lab,5,2026-09-21,A. Chen,Sustain,Audit findings closed on time,3.1
+614,Quality Lab,5,2026-09-21,A. Chen,Sustain,Team participates in weekly 5S huddles,3.5
+615,Quality Lab,5,2026-09-21,A. Chen,Sustain,5S board updated weekly,3.5
+616,Quality Lab,6,2026-09-28,S. Novak,Sort,Unneeded items removed from workstations,3.7
+617,Quality Lab,6,2026-09-28,S. Novak,Sort,Red-tag holding area maintained,3.4
+618,Quality Lab,6,2026-09-28,S. Novak,Sort,Obsolete materials dispositioned on time,3.8
+619,Quality Lab,6,2026-09-28,S. Novak,Set in Order,Tools shadow-boarded and labeled,3.9
+620,Quality Lab,6,2026-09-28,S. Novak,Set in Order,Materials have marked home locations,3.4
+621,Quality Lab,6,2026-09-28,S. Novak,Set in Order,Walkways clear and marked,4.0
+622,Quality Lab,6,2026-09-28,S. Novak,Shine,Floors and equipment cleaned per schedule,4.5
+623,Quality Lab,6,2026-09-28,S. Novak,Shine,Cleaning supplies stocked at point of use,4.0
+624,Quality Lab,6,2026-09-28,S. Novak,Shine,Leaks and spills addressed same shift,3.9
+625,Quality Lab,6,2026-09-28,S. Novak,Standardize,Visual standards posted at the line,3.7
+626,Quality Lab,6,2026-09-28,S. Novak,Standardize,Checklists current and followed,3.9
+627,Quality Lab,6,2026-09-28,S. Novak,Standardize,Shift handover log complete,3.3
+628,Quality Lab,6,2026-09-28,S. Novak,Sustain,Audit findings closed on time,3.6
+629,Quality Lab,6,2026-09-28,S. Novak,Sustain,Team participates in weekly 5S huddles,3.5
+630,Quality Lab,6,2026-09-28,S. Novak,Sustain,5S board updated weekly,4.0
+631,Quality Lab,7,2026-10-05,M. Ortiz,Sort,Unneeded items removed from workstations,4.1
+632,Quality Lab,7,2026-10-05,M. Ortiz,Sort,Red-tag holding area maintained,3.4
+633,Quality Lab,7,2026-10-05,M. Ortiz,Sort,Obsolete materials dispositioned on time,3.8
+634,Quality Lab,7,2026-10-05,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,3.9
+635,Quality Lab,7,2026-10-05,M. Ortiz,Set in Order,Materials have marked home locations,3.6
+636,Quality Lab,7,2026-10-05,M. Ortiz,Set in Order,Walkways clear and marked,3.8
+637,Quality Lab,7,2026-10-05,M. Ortiz,Shine,Floors and equipment cleaned per schedule,4.3
+638,Quality Lab,7,2026-10-05,M. Ortiz,Shine,Cleaning supplies stocked at point of use,3.9
+639,Quality Lab,7,2026-10-05,M. Ortiz,Shine,Leaks and spills addressed same shift,3.6
+640,Quality Lab,7,2026-10-05,M. Ortiz,Standardize,Visual standards posted at the line,3.7
+641,Quality Lab,7,2026-10-05,M. Ortiz,Standardize,Checklists current and followed,3.5
+642,Quality Lab,7,2026-10-05,M. Ortiz,Standardize,Shift handover log complete,3.7
+643,Quality Lab,7,2026-10-05,M. Ortiz,Sustain,Audit findings closed on time,3.5
+644,Quality Lab,7,2026-10-05,M. Ortiz,Sustain,Team participates in weekly 5S huddles,3.1
+645,Quality Lab,7,2026-10-05,M. Ortiz,Sustain,5S board updated weekly,3.1
+646,Quality Lab,8,2026-10-12,A. Chen,Sort,Unneeded items removed from workstations,3.8
+647,Quality Lab,8,2026-10-12,A. Chen,Sort,Red-tag holding area maintained,3.6
+648,Quality Lab,8,2026-10-12,A. Chen,Sort,Obsolete materials dispositioned on time,3.1
+649,Quality Lab,8,2026-10-12,A. Chen,Set in Order,Tools shadow-boarded and labeled,4.0
+650,Quality Lab,8,2026-10-12,A. Chen,Set in Order,Materials have marked home locations,3.9
+651,Quality Lab,8,2026-10-12,A. Chen,Set in Order,Walkways clear and marked,3.6
+652,Quality Lab,8,2026-10-12,A. Chen,Shine,Floors and equipment cleaned per schedule,3.7
+653,Quality Lab,8,2026-10-12,A. Chen,Shine,Cleaning supplies stocked at point of use,4.2
+654,Quality Lab,8,2026-10-12,A. Chen,Shine,Leaks and spills addressed same shift,4.1
+655,Quality Lab,8,2026-10-12,A. Chen,Standardize,Visual standards posted at the line,4.3
+656,Quality Lab,8,2026-10-12,A. Chen,Standardize,Checklists current and followed,3.9
+657,Quality Lab,8,2026-10-12,A. Chen,Standardize,Shift handover log complete,3.8
+658,Quality Lab,8,2026-10-12,A. Chen,Sustain,Audit findings closed on time,3.5
+659,Quality Lab,8,2026-10-12,A. Chen,Sustain,Team participates in weekly 5S huddles,3.8
+660,Quality Lab,8,2026-10-12,A. Chen,Sustain,5S board updated weekly,3.7
+661,Quality Lab,9,2026-10-19,S. Novak,Sort,Unneeded items removed from workstations,3.6
+662,Quality Lab,9,2026-10-19,S. Novak,Sort,Red-tag holding area maintained,3.6
+663,Quality Lab,9,2026-10-19,S. Novak,Sort,Obsolete materials dispositioned on time,3.6
+664,Quality Lab,9,2026-10-19,S. Novak,Set in Order,Tools shadow-boarded and labeled,4.0
+665,Quality Lab,9,2026-10-19,S. Novak,Set in Order,Materials have marked home locations,4.2
+666,Quality Lab,9,2026-10-19,S. Novak,Set in Order,Walkways clear and marked,3.7
+667,Quality Lab,9,2026-10-19,S. Novak,Shine,Floors and equipment cleaned per schedule,3.9
+668,Quality Lab,9,2026-10-19,S. Novak,Shine,Cleaning supplies stocked at point of use,4.1
+669,Quality Lab,9,2026-10-19,S. Novak,Shine,Leaks and spills addressed same shift,3.9
+670,Quality Lab,9,2026-10-19,S. Novak,Standardize,Visual standards posted at the line,4.0
+671,Quality Lab,9,2026-10-19,S. Novak,Standardize,Checklists current and followed,3.2
+672,Quality Lab,9,2026-10-19,S. Novak,Standardize,Shift handover log complete,3.5
+673,Quality Lab,9,2026-10-19,S. Novak,Sustain,Audit findings closed on time,3.4
+674,Quality Lab,9,2026-10-19,S. Novak,Sustain,Team participates in weekly 5S huddles,3.0
+675,Quality Lab,9,2026-10-19,S. Novak,Sustain,5S board updated weekly,3.3
+676,Quality Lab,10,2026-10-26,S. Novak,Sort,Unneeded items removed from workstations,3.5
+677,Quality Lab,10,2026-10-26,S. Novak,Sort,Red-tag holding area maintained,3.6
+678,Quality Lab,10,2026-10-26,S. Novak,Sort,Obsolete materials dispositioned on time,4.0
+679,Quality Lab,10,2026-10-26,S. Novak,Set in Order,Tools shadow-boarded and labeled,3.7
+680,Quality Lab,10,2026-10-26,S. Novak,Set in Order,Materials have marked home locations,3.5
+681,Quality Lab,10,2026-10-26,S. Novak,Set in Order,Walkways clear and marked,3.8
+682,Quality Lab,10,2026-10-26,S. Novak,Shine,Floors and equipment cleaned per schedule,4.3
+683,Quality Lab,10,2026-10-26,S. Novak,Shine,Cleaning supplies stocked at point of use,3.8
+684,Quality Lab,10,2026-10-26,S. Novak,Shine,Leaks and spills addressed same shift,3.8
+685,Quality Lab,10,2026-10-26,S. Novak,Standardize,Visual standards posted at the line,3.9
+686,Quality Lab,10,2026-10-26,S. Novak,Standardize,Checklists current and followed,3.7
+687,Quality Lab,10,2026-10-26,S. Novak,Standardize,Shift handover log complete,3.9
+688,Quality Lab,10,2026-10-26,S. Novak,Sustain,Audit findings closed on time,3.5
+689,Quality Lab,10,2026-10-26,S. Novak,Sustain,Team participates in weekly 5S huddles,3.7
+690,Quality Lab,10,2026-10-26,S. Novak,Sustain,5S board updated weekly,3.3
+691,Quality Lab,11,2026-11-02,A. Chen,Sort,Unneeded items removed from workstations,3.6
+692,Quality Lab,11,2026-11-02,A. Chen,Sort,Red-tag holding area maintained,3.4
+693,Quality Lab,11,2026-11-02,A. Chen,Sort,Obsolete materials dispositioned on time,3.3
+694,Quality Lab,11,2026-11-02,A. Chen,Set in Order,Tools shadow-boarded and labeled,4.0
+695,Quality Lab,11,2026-11-02,A. Chen,Set in Order,Materials have marked home locations,3.7
+696,Quality Lab,11,2026-11-02,A. Chen,Set in Order,Walkways clear and marked,3.5
+697,Quality Lab,11,2026-11-02,A. Chen,Shine,Floors and equipment cleaned per schedule,4.0
+698,Quality Lab,11,2026-11-02,A. Chen,Shine,Cleaning supplies stocked at point of use,4.3
+699,Quality Lab,11,2026-11-02,A. Chen,Shine,Leaks and spills addressed same shift,3.4
+700,Quality Lab,11,2026-11-02,A. Chen,Standardize,Visual standards posted at the line,3.4
+701,Quality Lab,11,2026-11-02,A. Chen,Standardize,Checklists current and followed,3.5
+702,Quality Lab,11,2026-11-02,A. Chen,Standardize,Shift handover log complete,4.1
+703,Quality Lab,11,2026-11-02,A. Chen,Sustain,Audit findings closed on time,3.6
+704,Quality Lab,11,2026-11-02,A. Chen,Sustain,Team participates in weekly 5S huddles,3.7
+705,Quality Lab,11,2026-11-02,A. Chen,Sustain,5S board updated weekly,3.3
+706,Quality Lab,12,2026-11-09,A. Chen,Sort,Unneeded items removed from workstations,3.4
+707,Quality Lab,12,2026-11-09,A. Chen,Sort,Red-tag holding area maintained,3.8
+708,Quality Lab,12,2026-11-09,A. Chen,Sort,Obsolete materials dispositioned on time,3.7
+709,Quality Lab,12,2026-11-09,A. Chen,Set in Order,Tools shadow-boarded and labeled,3.9
+710,Quality Lab,12,2026-11-09,A. Chen,Set in Order,Materials have marked home locations,3.8
+711,Quality Lab,12,2026-11-09,A. Chen,Set in Order,Walkways clear and marked,3.9
+712,Quality Lab,12,2026-11-09,A. Chen,Shine,Floors and equipment cleaned per schedule,4.0
+713,Quality Lab,12,2026-11-09,A. Chen,Shine,Cleaning supplies stocked at point of use,4.2
+714,Quality Lab,12,2026-11-09,A. Chen,Shine,Leaks and spills addressed same shift,4.2
+715,Quality Lab,12,2026-11-09,A. Chen,Standardize,Visual standards posted at the line,3.3
+716,Quality Lab,12,2026-11-09,A. Chen,Standardize,Checklists current and followed,3.2
+717,Quality Lab,12,2026-11-09,A. Chen,Standardize,Shift handover log complete,4.0
+718,Quality Lab,12,2026-11-09,A. Chen,Sustain,Audit findings closed on time,3.8
+719,Quality Lab,12,2026-11-09,A. Chen,Sustain,Team participates in weekly 5S huddles,3.3
+720,Quality Lab,12,2026-11-09,A. Chen,Sustain,5S board updated weekly,3.1
+721,Warehouse & Stores,1,2026-08-24,M. Ortiz,Sort,Unneeded items removed from workstations,2.7
+722,Warehouse & Stores,1,2026-08-24,M. Ortiz,Sort,Red-tag holding area maintained,2.9
+723,Warehouse & Stores,1,2026-08-24,M. Ortiz,Sort,Obsolete materials dispositioned on time,2.6
+724,Warehouse & Stores,1,2026-08-24,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,2.5
+725,Warehouse & Stores,1,2026-08-24,M. Ortiz,Set in Order,Materials have marked home locations,2.3
+726,Warehouse & Stores,1,2026-08-24,M. Ortiz,Set in Order,Walkways clear and marked,2.6
+727,Warehouse & Stores,1,2026-08-24,M. Ortiz,Shine,Floors and equipment cleaned per schedule,2.7
+728,Warehouse & Stores,1,2026-08-24,M. Ortiz,Shine,Cleaning supplies stocked at point of use,2.5
+729,Warehouse & Stores,1,2026-08-24,M. Ortiz,Shine,Leaks and spills addressed same shift,3.3
+730,Warehouse & Stores,1,2026-08-24,M. Ortiz,Standardize,Visual standards posted at the line,2.8
+731,Warehouse & Stores,1,2026-08-24,M. Ortiz,Standardize,Checklists current and followed,2.6
+732,Warehouse & Stores,1,2026-08-24,M. Ortiz,Standardize,Shift handover log complete,2.1
+733,Warehouse & Stores,1,2026-08-24,M. Ortiz,Sustain,Audit findings closed on time,2.4
+734,Warehouse & Stores,1,2026-08-24,M. Ortiz,Sustain,Team participates in weekly 5S huddles,2.3
+735,Warehouse & Stores,1,2026-08-24,M. Ortiz,Sustain,5S board updated weekly,2.3
+736,Warehouse & Stores,2,2026-08-31,A. Chen,Sort,Unneeded items removed from workstations,2.8
+737,Warehouse & Stores,2,2026-08-31,A. Chen,Sort,Red-tag holding area maintained,2.6
+738,Warehouse & Stores,2,2026-08-31,A. Chen,Sort,Obsolete materials dispositioned on time,2.6
+739,Warehouse & Stores,2,2026-08-31,A. Chen,Set in Order,Tools shadow-boarded and labeled,2.7
+740,Warehouse & Stores,2,2026-08-31,A. Chen,Set in Order,Materials have marked home locations,2.6
+741,Warehouse & Stores,2,2026-08-31,A. Chen,Set in Order,Walkways clear and marked,2.1
+742,Warehouse & Stores,2,2026-08-31,A. Chen,Shine,Floors and equipment cleaned per schedule,2.8
+743,Warehouse & Stores,2,2026-08-31,A. Chen,Shine,Cleaning supplies stocked at point of use,2.6
+744,Warehouse & Stores,2,2026-08-31,A. Chen,Shine,Leaks and spills addressed same shift,2.4
+745,Warehouse & Stores,2,2026-08-31,A. Chen,Standardize,Visual standards posted at the line,2.8
+746,Warehouse & Stores,2,2026-08-31,A. Chen,Standardize,Checklists current and followed,2.8
+747,Warehouse & Stores,2,2026-08-31,A. Chen,Standardize,Shift handover log complete,2.7
+748,Warehouse & Stores,2,2026-08-31,A. Chen,Sustain,Audit findings closed on time,2.2
+749,Warehouse & Stores,2,2026-08-31,A. Chen,Sustain,Team participates in weekly 5S huddles,2.5
+750,Warehouse & Stores,2,2026-08-31,A. Chen,Sustain,5S board updated weekly,2.2
+751,Warehouse & Stores,3,2026-09-07,S. Novak,Sort,Unneeded items removed from workstations,2.2
+752,Warehouse & Stores,3,2026-09-07,S. Novak,Sort,Red-tag holding area maintained,2.5
+753,Warehouse & Stores,3,2026-09-07,S. Novak,Sort,Obsolete materials dispositioned on time,2.5
+754,Warehouse & Stores,3,2026-09-07,S. Novak,Set in Order,Tools shadow-boarded and labeled,2.2
+755,Warehouse & Stores,3,2026-09-07,S. Novak,Set in Order,Materials have marked home locations,2.5
+756,Warehouse & Stores,3,2026-09-07,S. Novak,Set in Order,Walkways clear and marked,2.5
+757,Warehouse & Stores,3,2026-09-07,S. Novak,Shine,Floors and equipment cleaned per schedule,3.2
+758,Warehouse & Stores,3,2026-09-07,S. Novak,Shine,Cleaning supplies stocked at point of use,3.0
+759,Warehouse & Stores,3,2026-09-07,S. Novak,Shine,Leaks and spills addressed same shift,2.8
+760,Warehouse & Stores,3,2026-09-07,S. Novak,Standardize,Visual standards posted at the line,2.4
+761,Warehouse & Stores,3,2026-09-07,S. Novak,Standardize,Checklists current and followed,2.4
+762,Warehouse & Stores,3,2026-09-07,S. Novak,Standardize,Shift handover log complete,2.3
+763,Warehouse & Stores,3,2026-09-07,S. Novak,Sustain,Audit findings closed on time,1.9
+764,Warehouse & Stores,3,2026-09-07,S. Novak,Sustain,Team participates in weekly 5S huddles,2.1
+765,Warehouse & Stores,3,2026-09-07,S. Novak,Sustain,5S board updated weekly,2.0
+766,Warehouse & Stores,4,2026-09-14,A. Chen,Sort,Unneeded items removed from workstations,2.1
+767,Warehouse & Stores,4,2026-09-14,A. Chen,Sort,Red-tag holding area maintained,2.6
+768,Warehouse & Stores,4,2026-09-14,A. Chen,Sort,Obsolete materials dispositioned on time,2.5
+769,Warehouse & Stores,4,2026-09-14,A. Chen,Set in Order,Tools shadow-boarded and labeled,2.1
+770,Warehouse & Stores,4,2026-09-14,A. Chen,Set in Order,Materials have marked home locations,2.5
+771,Warehouse & Stores,4,2026-09-14,A. Chen,Set in Order,Walkways clear and marked,2.8
+772,Warehouse & Stores,4,2026-09-14,A. Chen,Shine,Floors and equipment cleaned per schedule,3.0
+773,Warehouse & Stores,4,2026-09-14,A. Chen,Shine,Cleaning supplies stocked at point of use,3.0
+774,Warehouse & Stores,4,2026-09-14,A. Chen,Shine,Leaks and spills addressed same shift,2.8
+775,Warehouse & Stores,4,2026-09-14,A. Chen,Standardize,Visual standards posted at the line,2.1
+776,Warehouse & Stores,4,2026-09-14,A. Chen,Standardize,Checklists current and followed,2.1
+777,Warehouse & Stores,4,2026-09-14,A. Chen,Standardize,Shift handover log complete,2.4
+778,Warehouse & Stores,4,2026-09-14,A. Chen,Sustain,Audit findings closed on time,2.2
+779,Warehouse & Stores,4,2026-09-14,A. Chen,Sustain,Team participates in weekly 5S huddles,2.5
+780,Warehouse & Stores,4,2026-09-14,A. Chen,Sustain,5S board updated weekly,2.4
+781,Warehouse & Stores,5,2026-09-21,M. Ortiz,Sort,Unneeded items removed from workstations,2.1
+782,Warehouse & Stores,5,2026-09-21,M. Ortiz,Sort,Red-tag holding area maintained,2.4
+783,Warehouse & Stores,5,2026-09-21,M. Ortiz,Sort,Obsolete materials dispositioned on time,2.5
+784,Warehouse & Stores,5,2026-09-21,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,2.5
+785,Warehouse & Stores,5,2026-09-21,M. Ortiz,Set in Order,Materials have marked home locations,2.4
+786,Warehouse & Stores,5,2026-09-21,M. Ortiz,Set in Order,Walkways clear and marked,2.6
+787,Warehouse & Stores,5,2026-09-21,M. Ortiz,Shine,Floors and equipment cleaned per schedule,2.6
+788,Warehouse & Stores,5,2026-09-21,M. Ortiz,Shine,Cleaning supplies stocked at point of use,2.6
+789,Warehouse & Stores,5,2026-09-21,M. Ortiz,Shine,Leaks and spills addressed same shift,2.8
+790,Warehouse & Stores,5,2026-09-21,M. Ortiz,Standardize,Visual standards posted at the line,2.2
+791,Warehouse & Stores,5,2026-09-21,M. Ortiz,Standardize,Checklists current and followed,2.4
+792,Warehouse & Stores,5,2026-09-21,M. Ortiz,Standardize,Shift handover log complete,2.4
+793,Warehouse & Stores,5,2026-09-21,M. Ortiz,Sustain,Audit findings closed on time,1.9
+794,Warehouse & Stores,5,2026-09-21,M. Ortiz,Sustain,Team participates in weekly 5S huddles,2.0
+795,Warehouse & Stores,5,2026-09-21,M. Ortiz,Sustain,5S board updated weekly,2.5
+796,Warehouse & Stores,6,2026-09-28,S. Novak,Sort,Unneeded items removed from workstations,2.2
+797,Warehouse & Stores,6,2026-09-28,S. Novak,Sort,Red-tag holding area maintained,1.9
+798,Warehouse & Stores,6,2026-09-28,S. Novak,Sort,Obsolete materials dispositioned on time,2.0
+799,Warehouse & Stores,6,2026-09-28,S. Novak,Set in Order,Tools shadow-boarded and labeled,2.6
+800,Warehouse & Stores,6,2026-09-28,S. Novak,Set in Order,Materials have marked home locations,2.6
+801,Warehouse & Stores,6,2026-09-28,S. Novak,Set in Order,Walkways clear and marked,2.5
+802,Warehouse & Stores,6,2026-09-28,S. Novak,Shine,Floors and equipment cleaned per schedule,3.1
+803,Warehouse & Stores,6,2026-09-28,S. Novak,Shine,Cleaning supplies stocked at point of use,2.1
+804,Warehouse & Stores,6,2026-09-28,S. Novak,Shine,Leaks and spills addressed same shift,2.8
+805,Warehouse & Stores,6,2026-09-28,S. Novak,Standardize,Visual standards posted at the line,2.7
+806,Warehouse & Stores,6,2026-09-28,S. Novak,Standardize,Checklists current and followed,2.1
+807,Warehouse & Stores,6,2026-09-28,S. Novak,Standardize,Shift handover log complete,2.3
+808,Warehouse & Stores,6,2026-09-28,S. Novak,Sustain,Audit findings closed on time,2.0
+809,Warehouse & Stores,6,2026-09-28,S. Novak,Sustain,Team participates in weekly 5S huddles,1.9
+810,Warehouse & Stores,6,2026-09-28,S. Novak,Sustain,5S board updated weekly,2.1
+811,Warehouse & Stores,7,2026-10-05,A. Chen,Sort,Unneeded items removed from workstations,2.9
+812,Warehouse & Stores,7,2026-10-05,A. Chen,Sort,Red-tag holding area maintained,2.4
+813,Warehouse & Stores,7,2026-10-05,A. Chen,Sort,Obsolete materials dispositioned on time,2.9
+814,Warehouse & Stores,7,2026-10-05,A. Chen,Set in Order,Tools shadow-boarded and labeled,2.6
+815,Warehouse & Stores,7,2026-10-05,A. Chen,Set in Order,Materials have marked home locations,3.0
+816,Warehouse & Stores,7,2026-10-05,A. Chen,Set in Order,Walkways clear and marked,2.5
+817,Warehouse & Stores,7,2026-10-05,A. Chen,Shine,Floors and equipment cleaned per schedule,2.8
+818,Warehouse & Stores,7,2026-10-05,A. Chen,Shine,Cleaning supplies stocked at point of use,2.8
+819,Warehouse & Stores,7,2026-10-05,A. Chen,Shine,Leaks and spills addressed same shift,3.5
+820,Warehouse & Stores,7,2026-10-05,A. Chen,Standardize,Visual standards posted at the line,2.6
+821,Warehouse & Stores,7,2026-10-05,A. Chen,Standardize,Checklists current and followed,2.2
+822,Warehouse & Stores,7,2026-10-05,A. Chen,Standardize,Shift handover log complete,2.6
+823,Warehouse & Stores,7,2026-10-05,A. Chen,Sustain,Audit findings closed on time,2.1
+824,Warehouse & Stores,7,2026-10-05,A. Chen,Sustain,Team participates in weekly 5S huddles,2.0
+825,Warehouse & Stores,7,2026-10-05,A. Chen,Sustain,5S board updated weekly,2.4
+826,Warehouse & Stores,8,2026-10-12,A. Chen,Sort,Unneeded items removed from workstations,2.5
+827,Warehouse & Stores,8,2026-10-12,A. Chen,Sort,Red-tag holding area maintained,2.5
+828,Warehouse & Stores,8,2026-10-12,A. Chen,Sort,Obsolete materials dispositioned on time,2.5
+829,Warehouse & Stores,8,2026-10-12,A. Chen,Set in Order,Tools shadow-boarded and labeled,2.6
+830,Warehouse & Stores,8,2026-10-12,A. Chen,Set in Order,Materials have marked home locations,2.7
+831,Warehouse & Stores,8,2026-10-12,A. Chen,Set in Order,Walkways clear and marked,2.1
+832,Warehouse & Stores,8,2026-10-12,A. Chen,Shine,Floors and equipment cleaned per schedule,2.9
+833,Warehouse & Stores,8,2026-10-12,A. Chen,Shine,Cleaning supplies stocked at point of use,2.5
+834,Warehouse & Stores,8,2026-10-12,A. Chen,Shine,Leaks and spills addressed same shift,2.4
+835,Warehouse & Stores,8,2026-10-12,A. Chen,Standardize,Visual standards posted at the line,2.3
+836,Warehouse & Stores,8,2026-10-12,A. Chen,Standardize,Checklists current and followed,2.4
+837,Warehouse & Stores,8,2026-10-12,A. Chen,Standardize,Shift handover log complete,2.2
+838,Warehouse & Stores,8,2026-10-12,A. Chen,Sustain,Audit findings closed on time,2.4
+839,Warehouse & Stores,8,2026-10-12,A. Chen,Sustain,Team participates in weekly 5S huddles,1.8
+840,Warehouse & Stores,8,2026-10-12,A. Chen,Sustain,5S board updated weekly,2.0
+841,Warehouse & Stores,9,2026-10-19,A. Chen,Sort,Unneeded items removed from workstations,2.4
+842,Warehouse & Stores,9,2026-10-19,A. Chen,Sort,Red-tag holding area maintained,2.5
+843,Warehouse & Stores,9,2026-10-19,A. Chen,Sort,Obsolete materials dispositioned on time,2.2
+844,Warehouse & Stores,9,2026-10-19,A. Chen,Set in Order,Tools shadow-boarded and labeled,2.7
+845,Warehouse & Stores,9,2026-10-19,A. Chen,Set in Order,Materials have marked home locations,2.6
+846,Warehouse & Stores,9,2026-10-19,A. Chen,Set in Order,Walkways clear and marked,2.1
+847,Warehouse & Stores,9,2026-10-19,A. Chen,Shine,Floors and equipment cleaned per schedule,2.3
+848,Warehouse & Stores,9,2026-10-19,A. Chen,Shine,Cleaning supplies stocked at point of use,2.7
+849,Warehouse & Stores,9,2026-10-19,A. Chen,Shine,Leaks and spills addressed same shift,2.7
+850,Warehouse & Stores,9,2026-10-19,A. Chen,Standardize,Visual standards posted at the line,2.3
+851,Warehouse & Stores,9,2026-10-19,A. Chen,Standardize,Checklists current and followed,2.3
+852,Warehouse & Stores,9,2026-10-19,A. Chen,Standardize,Shift handover log complete,2.4
+853,Warehouse & Stores,9,2026-10-19,A. Chen,Sustain,Audit findings closed on time,2.4
+854,Warehouse & Stores,9,2026-10-19,A. Chen,Sustain,Team participates in weekly 5S huddles,1.9
+855,Warehouse & Stores,9,2026-10-19,A. Chen,Sustain,5S board updated weekly,1.9
+856,Warehouse & Stores,10,2026-10-26,M. Ortiz,Sort,Unneeded items removed from workstations,2.2
+857,Warehouse & Stores,10,2026-10-26,M. Ortiz,Sort,Red-tag holding area maintained,2.5
+858,Warehouse & Stores,10,2026-10-26,M. Ortiz,Sort,Obsolete materials dispositioned on time,2.8
+859,Warehouse & Stores,10,2026-10-26,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,2.4
+860,Warehouse & Stores,10,2026-10-26,M. Ortiz,Set in Order,Materials have marked home locations,1.9
+861,Warehouse & Stores,10,2026-10-26,M. Ortiz,Set in Order,Walkways clear and marked,2.1
+862,Warehouse & Stores,10,2026-10-26,M. Ortiz,Shine,Floors and equipment cleaned per schedule,2.5
+863,Warehouse & Stores,10,2026-10-26,M. Ortiz,Shine,Cleaning supplies stocked at point of use,2.6
+864,Warehouse & Stores,10,2026-10-26,M. Ortiz,Shine,Leaks and spills addressed same shift,2.6
+865,Warehouse & Stores,10,2026-10-26,M. Ortiz,Standardize,Visual standards posted at the line,2.4
+866,Warehouse & Stores,10,2026-10-26,M. Ortiz,Standardize,Checklists current and followed,2.3
+867,Warehouse & Stores,10,2026-10-26,M. Ortiz,Standardize,Shift handover log complete,2.6
+868,Warehouse & Stores,10,2026-10-26,M. Ortiz,Sustain,Audit findings closed on time,2.0
+869,Warehouse & Stores,10,2026-10-26,M. Ortiz,Sustain,Team participates in weekly 5S huddles,1.9
+870,Warehouse & Stores,10,2026-10-26,M. Ortiz,Sustain,5S board updated weekly,2.3
+871,Warehouse & Stores,11,2026-11-02,S. Novak,Sort,Unneeded items removed from workstations,2.5
+872,Warehouse & Stores,11,2026-11-02,S. Novak,Sort,Red-tag holding area maintained,2.5
+873,Warehouse & Stores,11,2026-11-02,S. Novak,Sort,Obsolete materials dispositioned on time,2.4
+874,Warehouse & Stores,11,2026-11-02,S. Novak,Set in Order,Tools shadow-boarded and labeled,2.9
+875,Warehouse & Stores,11,2026-11-02,S. Novak,Set in Order,Materials have marked home locations,2.4
+876,Warehouse & Stores,11,2026-11-02,S. Novak,Set in Order,Walkways clear and marked,3.1
+877,Warehouse & Stores,11,2026-11-02,S. Novak,Shine,Floors and equipment cleaned per schedule,2.7
+878,Warehouse & Stores,11,2026-11-02,S. Novak,Shine,Cleaning supplies stocked at point of use,2.4
+879,Warehouse & Stores,11,2026-11-02,S. Novak,Shine,Leaks and spills addressed same shift,2.8
+880,Warehouse & Stores,11,2026-11-02,S. Novak,Standardize,Visual standards posted at the line,2.1
+881,Warehouse & Stores,11,2026-11-02,S. Novak,Standardize,Checklists current and followed,2.2
+882,Warehouse & Stores,11,2026-11-02,S. Novak,Standardize,Shift handover log complete,2.4
+883,Warehouse & Stores,11,2026-11-02,S. Novak,Sustain,Audit findings closed on time,2.3
+884,Warehouse & Stores,11,2026-11-02,S. Novak,Sustain,Team participates in weekly 5S huddles,2.0
+885,Warehouse & Stores,11,2026-11-02,S. Novak,Sustain,5S board updated weekly,2.4
+886,Warehouse & Stores,12,2026-11-09,M. Ortiz,Sort,Unneeded items removed from workstations,2.7
+887,Warehouse & Stores,12,2026-11-09,M. Ortiz,Sort,Red-tag holding area maintained,2.8
+888,Warehouse & Stores,12,2026-11-09,M. Ortiz,Sort,Obsolete materials dispositioned on time,2.6
+889,Warehouse & Stores,12,2026-11-09,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,2.9
+890,Warehouse & Stores,12,2026-11-09,M. Ortiz,Set in Order,Materials have marked home locations,2.1
+891,Warehouse & Stores,12,2026-11-09,M. Ortiz,Set in Order,Walkways clear and marked,2.5
+892,Warehouse & Stores,12,2026-11-09,M. Ortiz,Shine,Floors and equipment cleaned per schedule,2.5
+893,Warehouse & Stores,12,2026-11-09,M. Ortiz,Shine,Cleaning supplies stocked at point of use,2.8
+894,Warehouse & Stores,12,2026-11-09,M. Ortiz,Shine,Leaks and spills addressed same shift,2.6
+895,Warehouse & Stores,12,2026-11-09,M. Ortiz,Standardize,Visual standards posted at the line,2.3
+896,Warehouse & Stores,12,2026-11-09,M. Ortiz,Standardize,Checklists current and followed,2.8
+897,Warehouse & Stores,12,2026-11-09,M. Ortiz,Standardize,Shift handover log complete,2.3
+898,Warehouse & Stores,12,2026-11-09,M. Ortiz,Sustain,Audit findings closed on time,2.3
+899,Warehouse & Stores,12,2026-11-09,M. Ortiz,Sustain,Team participates in weekly 5S huddles,2.1
+900,Warehouse & Stores,12,2026-11-09,M. Ortiz,Sustain,5S board updated weekly,2.2
+901,Maintenance Bay,1,2026-08-24,M. Ortiz,Sort,Unneeded items removed from workstations,3.1
+902,Maintenance Bay,1,2026-08-24,M. Ortiz,Sort,Red-tag holding area maintained,3.3
+903,Maintenance Bay,1,2026-08-24,M. Ortiz,Sort,Obsolete materials dispositioned on time,3.4
+904,Maintenance Bay,1,2026-08-24,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,3.2
+905,Maintenance Bay,1,2026-08-24,M. Ortiz,Set in Order,Materials have marked home locations,3.2
+906,Maintenance Bay,1,2026-08-24,M. Ortiz,Set in Order,Walkways clear and marked,2.8
+907,Maintenance Bay,1,2026-08-24,M. Ortiz,Shine,Floors and equipment cleaned per schedule,3.3
+908,Maintenance Bay,1,2026-08-24,M. Ortiz,Shine,Cleaning supplies stocked at point of use,3.5
+909,Maintenance Bay,1,2026-08-24,M. Ortiz,Shine,Leaks and spills addressed same shift,3.5
+910,Maintenance Bay,1,2026-08-24,M. Ortiz,Standardize,Visual standards posted at the line,3.1
+911,Maintenance Bay,1,2026-08-24,M. Ortiz,Standardize,Checklists current and followed,3.3
+912,Maintenance Bay,1,2026-08-24,M. Ortiz,Standardize,Shift handover log complete,3.2
+913,Maintenance Bay,1,2026-08-24,M. Ortiz,Sustain,Audit findings closed on time,3.2
+914,Maintenance Bay,1,2026-08-24,M. Ortiz,Sustain,Team participates in weekly 5S huddles,2.9
+915,Maintenance Bay,1,2026-08-24,M. Ortiz,Sustain,5S board updated weekly,2.8
+916,Maintenance Bay,2,2026-08-31,A. Chen,Sort,Unneeded items removed from workstations,3.1
+917,Maintenance Bay,2,2026-08-31,A. Chen,Sort,Red-tag holding area maintained,2.3
+918,Maintenance Bay,2,2026-08-31,A. Chen,Sort,Obsolete materials dispositioned on time,3.1
+919,Maintenance Bay,2,2026-08-31,A. Chen,Set in Order,Tools shadow-boarded and labeled,2.2
+920,Maintenance Bay,2,2026-08-31,A. Chen,Set in Order,Materials have marked home locations,2.7
+921,Maintenance Bay,2,2026-08-31,A. Chen,Set in Order,Walkways clear and marked,3.2
+922,Maintenance Bay,2,2026-08-31,A. Chen,Shine,Floors and equipment cleaned per schedule,3.4
+923,Maintenance Bay,2,2026-08-31,A. Chen,Shine,Cleaning supplies stocked at point of use,3.0
+924,Maintenance Bay,2,2026-08-31,A. Chen,Shine,Leaks and spills addressed same shift,3.1
+925,Maintenance Bay,2,2026-08-31,A. Chen,Standardize,Visual standards posted at the line,3.4
+926,Maintenance Bay,2,2026-08-31,A. Chen,Standardize,Checklists current and followed,2.9
+927,Maintenance Bay,2,2026-08-31,A. Chen,Standardize,Shift handover log complete,3.6
+928,Maintenance Bay,2,2026-08-31,A. Chen,Sustain,Audit findings closed on time,2.8
+929,Maintenance Bay,2,2026-08-31,A. Chen,Sustain,Team participates in weekly 5S huddles,3.0
+930,Maintenance Bay,2,2026-08-31,A. Chen,Sustain,5S board updated weekly,3.3
+931,Maintenance Bay,3,2026-09-07,A. Chen,Sort,Unneeded items removed from workstations,2.7
+932,Maintenance Bay,3,2026-09-07,A. Chen,Sort,Red-tag holding area maintained,3.0
+933,Maintenance Bay,3,2026-09-07,A. Chen,Sort,Obsolete materials dispositioned on time,3.0
+934,Maintenance Bay,3,2026-09-07,A. Chen,Set in Order,Tools shadow-boarded and labeled,2.8
+935,Maintenance Bay,3,2026-09-07,A. Chen,Set in Order,Materials have marked home locations,3.0
+936,Maintenance Bay,3,2026-09-07,A. Chen,Set in Order,Walkways clear and marked,2.9
+937,Maintenance Bay,3,2026-09-07,A. Chen,Shine,Floors and equipment cleaned per schedule,3.5
+938,Maintenance Bay,3,2026-09-07,A. Chen,Shine,Cleaning supplies stocked at point of use,3.3
+939,Maintenance Bay,3,2026-09-07,A. Chen,Shine,Leaks and spills addressed same shift,3.2
+940,Maintenance Bay,3,2026-09-07,A. Chen,Standardize,Visual standards posted at the line,3.0
+941,Maintenance Bay,3,2026-09-07,A. Chen,Standardize,Checklists current and followed,3.1
+942,Maintenance Bay,3,2026-09-07,A. Chen,Standardize,Shift handover log complete,3.2
+943,Maintenance Bay,3,2026-09-07,A. Chen,Sustain,Audit findings closed on time,2.6
+944,Maintenance Bay,3,2026-09-07,A. Chen,Sustain,Team participates in weekly 5S huddles,2.6
+945,Maintenance Bay,3,2026-09-07,A. Chen,Sustain,5S board updated weekly,3.1
+946,Maintenance Bay,4,2026-09-14,S. Novak,Sort,Unneeded items removed from workstations,2.9
+947,Maintenance Bay,4,2026-09-14,S. Novak,Sort,Red-tag holding area maintained,2.6
+948,Maintenance Bay,4,2026-09-14,S. Novak,Sort,Obsolete materials dispositioned on time,3.1
+949,Maintenance Bay,4,2026-09-14,S. Novak,Set in Order,Tools shadow-boarded and labeled,3.2
+950,Maintenance Bay,4,2026-09-14,S. Novak,Set in Order,Materials have marked home locations,2.7
+951,Maintenance Bay,4,2026-09-14,S. Novak,Set in Order,Walkways clear and marked,3.2
+952,Maintenance Bay,4,2026-09-14,S. Novak,Shine,Floors and equipment cleaned per schedule,3.5
+953,Maintenance Bay,4,2026-09-14,S. Novak,Shine,Cleaning supplies stocked at point of use,3.4
+954,Maintenance Bay,4,2026-09-14,S. Novak,Shine,Leaks and spills addressed same shift,3.5
+955,Maintenance Bay,4,2026-09-14,S. Novak,Standardize,Visual standards posted at the line,2.7
+956,Maintenance Bay,4,2026-09-14,S. Novak,Standardize,Checklists current and followed,3.1
+957,Maintenance Bay,4,2026-09-14,S. Novak,Standardize,Shift handover log complete,3.0
+958,Maintenance Bay,4,2026-09-14,S. Novak,Sustain,Audit findings closed on time,2.7
+959,Maintenance Bay,4,2026-09-14,S. Novak,Sustain,Team participates in weekly 5S huddles,3.1
+960,Maintenance Bay,4,2026-09-14,S. Novak,Sustain,5S board updated weekly,3.2
+961,Maintenance Bay,5,2026-09-21,J. Patel,Sort,Unneeded items removed from workstations,3.3
+962,Maintenance Bay,5,2026-09-21,J. Patel,Sort,Red-tag holding area maintained,3.0
+963,Maintenance Bay,5,2026-09-21,J. Patel,Sort,Obsolete materials dispositioned on time,3.1
+964,Maintenance Bay,5,2026-09-21,J. Patel,Set in Order,Tools shadow-boarded and labeled,3.3
+965,Maintenance Bay,5,2026-09-21,J. Patel,Set in Order,Materials have marked home locations,3.1
+966,Maintenance Bay,5,2026-09-21,J. Patel,Set in Order,Walkways clear and marked,3.1
+967,Maintenance Bay,5,2026-09-21,J. Patel,Shine,Floors and equipment cleaned per schedule,3.5
+968,Maintenance Bay,5,2026-09-21,J. Patel,Shine,Cleaning supplies stocked at point of use,3.3
+969,Maintenance Bay,5,2026-09-21,J. Patel,Shine,Leaks and spills addressed same shift,3.1
+970,Maintenance Bay,5,2026-09-21,J. Patel,Standardize,Visual standards posted at the line,2.9
+971,Maintenance Bay,5,2026-09-21,J. Patel,Standardize,Checklists current and followed,3.2
+972,Maintenance Bay,5,2026-09-21,J. Patel,Standardize,Shift handover log complete,3.1
+973,Maintenance Bay,5,2026-09-21,J. Patel,Sustain,Audit findings closed on time,2.9
+974,Maintenance Bay,5,2026-09-21,J. Patel,Sustain,Team participates in weekly 5S huddles,3.0
+975,Maintenance Bay,5,2026-09-21,J. Patel,Sustain,5S board updated weekly,2.8
+976,Maintenance Bay,6,2026-09-28,M. Ortiz,Sort,Unneeded items removed from workstations,3.2
+977,Maintenance Bay,6,2026-09-28,M. Ortiz,Sort,Red-tag holding area maintained,3.1
+978,Maintenance Bay,6,2026-09-28,M. Ortiz,Sort,Obsolete materials dispositioned on time,2.7
+979,Maintenance Bay,6,2026-09-28,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,3.5
+980,Maintenance Bay,6,2026-09-28,M. Ortiz,Set in Order,Materials have marked home locations,3.0
+981,Maintenance Bay,6,2026-09-28,M. Ortiz,Set in Order,Walkways clear and marked,2.7
+982,Maintenance Bay,6,2026-09-28,M. Ortiz,Shine,Floors and equipment cleaned per schedule,3.0
+983,Maintenance Bay,6,2026-09-28,M. Ortiz,Shine,Cleaning supplies stocked at point of use,3.0
+984,Maintenance Bay,6,2026-09-28,M. Ortiz,Shine,Leaks and spills addressed same shift,3.3
+985,Maintenance Bay,6,2026-09-28,M. Ortiz,Standardize,Visual standards posted at the line,3.0
+986,Maintenance Bay,6,2026-09-28,M. Ortiz,Standardize,Checklists current and followed,3.0
+987,Maintenance Bay,6,2026-09-28,M. Ortiz,Standardize,Shift handover log complete,3.2
+988,Maintenance Bay,6,2026-09-28,M. Ortiz,Sustain,Audit findings closed on time,2.9
+989,Maintenance Bay,6,2026-09-28,M. Ortiz,Sustain,Team participates in weekly 5S huddles,2.9
+990,Maintenance Bay,6,2026-09-28,M. Ortiz,Sustain,5S board updated weekly,3.0
+991,Maintenance Bay,7,2026-10-05,S. Novak,Sort,Unneeded items removed from workstations,2.5
+992,Maintenance Bay,7,2026-10-05,S. Novak,Sort,Red-tag holding area maintained,2.9
+993,Maintenance Bay,7,2026-10-05,S. Novak,Sort,Obsolete materials dispositioned on time,2.5
+994,Maintenance Bay,7,2026-10-05,S. Novak,Set in Order,Tools shadow-boarded and labeled,3.1
+995,Maintenance Bay,7,2026-10-05,S. Novak,Set in Order,Materials have marked home locations,3.1
+996,Maintenance Bay,7,2026-10-05,S. Novak,Set in Order,Walkways clear and marked,3.4
+997,Maintenance Bay,7,2026-10-05,S. Novak,Shine,Floors and equipment cleaned per schedule,3.6
+998,Maintenance Bay,7,2026-10-05,S. Novak,Shine,Cleaning supplies stocked at point of use,3.4
+999,Maintenance Bay,7,2026-10-05,S. Novak,Shine,Leaks and spills addressed same shift,3.2
+1000,Maintenance Bay,7,2026-10-05,S. Novak,Standardize,Visual standards posted at the line,3.2
+1001,Maintenance Bay,7,2026-10-05,S. Novak,Standardize,Checklists current and followed,2.9
+1002,Maintenance Bay,7,2026-10-05,S. Novak,Standardize,Shift handover log complete,3.0
+1003,Maintenance Bay,7,2026-10-05,S. Novak,Sustain,Audit findings closed on time,3.1
+1004,Maintenance Bay,7,2026-10-05,S. Novak,Sustain,Team participates in weekly 5S huddles,2.7
+1005,Maintenance Bay,7,2026-10-05,S. Novak,Sustain,5S board updated weekly,3.1
+1006,Maintenance Bay,8,2026-10-12,J. Patel,Sort,Unneeded items removed from workstations,3.2
+1007,Maintenance Bay,8,2026-10-12,J. Patel,Sort,Red-tag holding area maintained,2.8
+1008,Maintenance Bay,8,2026-10-12,J. Patel,Sort,Obsolete materials dispositioned on time,3.3
+1009,Maintenance Bay,8,2026-10-12,J. Patel,Set in Order,Tools shadow-boarded and labeled,3.4
+1010,Maintenance Bay,8,2026-10-12,J. Patel,Set in Order,Materials have marked home locations,3.2
+1011,Maintenance Bay,8,2026-10-12,J. Patel,Set in Order,Walkways clear and marked,3.0
+1012,Maintenance Bay,8,2026-10-12,J. Patel,Shine,Floors and equipment cleaned per schedule,3.2
+1013,Maintenance Bay,8,2026-10-12,J. Patel,Shine,Cleaning supplies stocked at point of use,3.2
+1014,Maintenance Bay,8,2026-10-12,J. Patel,Shine,Leaks and spills addressed same shift,3.5
+1015,Maintenance Bay,8,2026-10-12,J. Patel,Standardize,Visual standards posted at the line,2.9
+1016,Maintenance Bay,8,2026-10-12,J. Patel,Standardize,Checklists current and followed,3.2
+1017,Maintenance Bay,8,2026-10-12,J. Patel,Standardize,Shift handover log complete,2.8
+1018,Maintenance Bay,8,2026-10-12,J. Patel,Sustain,Audit findings closed on time,2.9
+1019,Maintenance Bay,8,2026-10-12,J. Patel,Sustain,Team participates in weekly 5S huddles,3.0
+1020,Maintenance Bay,8,2026-10-12,J. Patel,Sustain,5S board updated weekly,3.5
+1021,Maintenance Bay,9,2026-10-19,J. Patel,Sort,Unneeded items removed from workstations,3.5
+1022,Maintenance Bay,9,2026-10-19,J. Patel,Sort,Red-tag holding area maintained,3.2
+1023,Maintenance Bay,9,2026-10-19,J. Patel,Sort,Obsolete materials dispositioned on time,3.3
+1024,Maintenance Bay,9,2026-10-19,J. Patel,Set in Order,Tools shadow-boarded and labeled,3.3
+1025,Maintenance Bay,9,2026-10-19,J. Patel,Set in Order,Materials have marked home locations,3.4
+1026,Maintenance Bay,9,2026-10-19,J. Patel,Set in Order,Walkways clear and marked,3.2
+1027,Maintenance Bay,9,2026-10-19,J. Patel,Shine,Floors and equipment cleaned per schedule,3.8
+1028,Maintenance Bay,9,2026-10-19,J. Patel,Shine,Cleaning supplies stocked at point of use,3.3
+1029,Maintenance Bay,9,2026-10-19,J. Patel,Shine,Leaks and spills addressed same shift,3.7
+1030,Maintenance Bay,9,2026-10-19,J. Patel,Standardize,Visual standards posted at the line,3.0
+1031,Maintenance Bay,9,2026-10-19,J. Patel,Standardize,Checklists current and followed,3.2
+1032,Maintenance Bay,9,2026-10-19,J. Patel,Standardize,Shift handover log complete,2.9
+1033,Maintenance Bay,9,2026-10-19,J. Patel,Sustain,Audit findings closed on time,3.1
+1034,Maintenance Bay,9,2026-10-19,J. Patel,Sustain,Team participates in weekly 5S huddles,3.4
+1035,Maintenance Bay,9,2026-10-19,J. Patel,Sustain,5S board updated weekly,3.0
+1036,Maintenance Bay,10,2026-10-26,M. Ortiz,Sort,Unneeded items removed from workstations,3.2
+1037,Maintenance Bay,10,2026-10-26,M. Ortiz,Sort,Red-tag holding area maintained,3.0
+1038,Maintenance Bay,10,2026-10-26,M. Ortiz,Sort,Obsolete materials dispositioned on time,3.2
+1039,Maintenance Bay,10,2026-10-26,M. Ortiz,Set in Order,Tools shadow-boarded and labeled,2.9
+1040,Maintenance Bay,10,2026-10-26,M. Ortiz,Set in Order,Materials have marked home locations,3.1
+1041,Maintenance Bay,10,2026-10-26,M. Ortiz,Set in Order,Walkways clear and marked,3.4
+1042,Maintenance Bay,10,2026-10-26,M. Ortiz,Shine,Floors and equipment cleaned per schedule,3.9
+1043,Maintenance Bay,10,2026-10-26,M. Ortiz,Shine,Cleaning supplies stocked at point of use,4.2
+1044,Maintenance Bay,10,2026-10-26,M. Ortiz,Shine,Leaks and spills addressed same shift,3.4
+1045,Maintenance Bay,10,2026-10-26,M. Ortiz,Standardize,Visual standards posted at the line,3.6
+1046,Maintenance Bay,10,2026-10-26,M. Ortiz,Standardize,Checklists current and followed,3.4
+1047,Maintenance Bay,10,2026-10-26,M. Ortiz,Standardize,Shift handover log complete,3.3
+1048,Maintenance Bay,10,2026-10-26,M. Ortiz,Sustain,Audit findings closed on time,3.2
+1049,Maintenance Bay,10,2026-10-26,M. Ortiz,Sustain,Team participates in weekly 5S huddles,3.1
+1050,Maintenance Bay,10,2026-10-26,M. Ortiz,Sustain,5S board updated weekly,3.1
+1051,Maintenance Bay,11,2026-11-02,A. Chen,Sort,Unneeded items removed from workstations,3.0
+1052,Maintenance Bay,11,2026-11-02,A. Chen,Sort,Red-tag holding area maintained,2.9
+1053,Maintenance Bay,11,2026-11-02,A. Chen,Sort,Obsolete materials dispositioned on time,3.5
+1054,Maintenance Bay,11,2026-11-02,A. Chen,Set in Order,Tools shadow-boarded and labeled,3.4
+1055,Maintenance Bay,11,2026-11-02,A. Chen,Set in Order,Materials have marked home locations,3.3
+1056,Maintenance Bay,11,2026-11-02,A. Chen,Set in Order,Walkways clear and marked,3.4
+1057,Maintenance Bay,11,2026-11-02,A. Chen,Shine,Floors and equipment cleaned per schedule,3.8
+1058,Maintenance Bay,11,2026-11-02,A. Chen,Shine,Cleaning supplies stocked at point of use,3.7
+1059,Maintenance Bay,11,2026-11-02,A. Chen,Shine,Leaks and spills addressed same shift,3.5
+1060,Maintenance Bay,11,2026-11-02,A. Chen,Standardize,Visual standards posted at the line,3.7
+1061,Maintenance Bay,11,2026-11-02,A. Chen,Standardize,Checklists current and followed,3.8
+1062,Maintenance Bay,11,2026-11-02,A. Chen,Standardize,Shift handover log complete,3.5
+1063,Maintenance Bay,11,2026-11-02,A. Chen,Sustain,Audit findings closed on time,3.4
+1064,Maintenance Bay,11,2026-11-02,A. Chen,Sustain,Team participates in weekly 5S huddles,3.5
+1065,Maintenance Bay,11,2026-11-02,A. Chen,Sustain,5S board updated weekly,3.5
+1066,Maintenance Bay,12,2026-11-09,J. Patel,Sort,Unneeded items removed from workstations,3.6
+1067,Maintenance Bay,12,2026-11-09,J. Patel,Sort,Red-tag holding area maintained,3.5
+1068,Maintenance Bay,12,2026-11-09,J. Patel,Sort,Obsolete materials dispositioned on time,3.5
+1069,Maintenance Bay,12,2026-11-09,J. Patel,Set in Order,Tools shadow-boarded and labeled,3.2
+1070,Maintenance Bay,12,2026-11-09,J. Patel,Set in Order,Materials have marked home locations,3.7
+1071,Maintenance Bay,12,2026-11-09,J. Patel,Set in Order,Walkways clear and marked,3.2
+1072,Maintenance Bay,12,2026-11-09,J. Patel,Shine,Floors and equipment cleaned per schedule,3.5
+1073,Maintenance Bay,12,2026-11-09,J. Patel,Shine,Cleaning supplies stocked at point of use,4.0
+1074,Maintenance Bay,12,2026-11-09,J. Patel,Shine,Leaks and spills addressed same shift,3.9
+1075,Maintenance Bay,12,2026-11-09,J. Patel,Standardize,Visual standards posted at the line,3.8
+1076,Maintenance Bay,12,2026-11-09,J. Patel,Standardize,Checklists current and followed,3.4
+1077,Maintenance Bay,12,2026-11-09,J. Patel,Standardize,Shift handover log complete,3.2
+1078,Maintenance Bay,12,2026-11-09,J. Patel,Sustain,Audit findings closed on time,3.2
+1079,Maintenance Bay,12,2026-11-09,J. Patel,Sustain,Team participates in weekly 5S huddles,3.3
+1080,Maintenance Bay,12,2026-11-09,J. Patel,Sustain,5S board updated weekly,3.3

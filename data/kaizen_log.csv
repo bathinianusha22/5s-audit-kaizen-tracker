@@ -1,0 +1,41 @@
+kaizen_id,idea,zone,category,estimated_annual_savings_usd,owner,status,days_to_implement,date_submitted
+KZ-001,Weekly 5S huddle with rotating lead at Warehouse & Stores,Warehouse & Stores,Sustain,4800,T. Brooks,approved,,2026-08-31
+KZ-002,Red-tag sweep and removal of obsolete fixtures at Line 2 - Assembly,Line 2 - Assembly,Sort,1050,R. Diaz,approved,,2026-11-01
+KZ-003,Checklist revision for Line 3 - Packaging startup and shutdown,Line 3 - Packaging,Standardize,4400,E. Vargas,approved,,2026-09-04
+KZ-004,Purge expired consumables from Quality Lab storage,Quality Lab,Sort,3250,E. Vargas,implemented,12.0,2026-09-26
+KZ-005,Supervisor gemba walk schedule for Maintenance Bay,Maintenance Bay,Sustain,9000,K. Meyer,rejected,,2026-10-01
+KZ-006,Floor-mark home locations for pallets at Quality Lab,Quality Lab,Set in Order,4300,T. Brooks,implemented,16.0,2026-11-11
+KZ-007,Clear unmarked WIP staging at Warehouse & Stores,Warehouse & Stores,Sort,5500,H. Schultz,implemented,20.0,2026-10-09
+KZ-008,Standardised shift handover sheet for Line 3 - Packaging,Line 3 - Packaging,Standardize,1150,R. Diaz,rejected,,2026-10-07
+KZ-009,Standardised shift handover sheet for Maintenance Bay,Maintenance Bay,Standardize,3450,T. Brooks,implemented,15.0,2026-10-15
+KZ-010,Tool crib re-layout to cut walk time at Line 3 - Packaging,Line 3 - Packaging,Set in Order,4250,T. Brooks,approved,,2026-11-01
+KZ-011,Purge expired consumables from Quality Lab storage (phase 2),Quality Lab,Sort,2750,D. Okafor,implemented,10.0,2026-09-15
+KZ-012,Floor-mark home locations for pallets at Line 1 - Assembly,Line 1 - Assembly,Set in Order,3800,H. Schultz,implemented,32.0,2026-10-16
+KZ-013,Shadow boards for torque tools at Line 1 - Assembly,Line 1 - Assembly,Set in Order,1550,E. Vargas,implemented,29.0,2026-09-10
+KZ-014,Checklist revision for Warehouse & Stores startup and shutdown,Warehouse & Stores,Standardize,1500,R. Diaz,implemented,41.0,2026-11-02
+KZ-015,Audit-finding tracker with due-date alerts for Line 3 - Packaging,Line 3 - Packaging,Sustain,7800,L. Fontaine,approved,,2026-11-10
+KZ-016,Shadow boards for torque tools at Line 1 - Assembly (phase 2),Line 1 - Assembly,Set in Order,5050,L. Fontaine,rejected,,2026-10-12
+KZ-017,Label all bins and racks at Line 2 - Assembly with QR codes,Line 2 - Assembly,Set in Order,2250,E. Vargas,proposed,,2026-09-10
+KZ-018,Daily 10-minute clean-down rota for Line 1 - Assembly,Line 1 - Assembly,Shine,1250,K. Meyer,implemented,26.0,2026-09-28
+KZ-019,Clear unmarked WIP staging at Line 1 - Assembly,Line 1 - Assembly,Sort,6150,T. Brooks,proposed,,2026-09-08
+KZ-020,Shadow boards for torque tools at Line 3 - Packaging,Line 3 - Packaging,Set in Order,1900,T. Brooks,proposed,,2026-10-07
+KZ-021,Tool crib re-layout to cut walk time at Line 3 - Packaging (phase 2),Line 3 - Packaging,Set in Order,10300,K. Meyer,proposed,,2026-09-28
+KZ-022,Weekly 5S huddle with rotating lead at Warehouse & Stores (phase 2),Warehouse & Stores,Sustain,5650,R. Diaz,proposed,,2026-10-21
+KZ-023,Red-tag sweep and removal of obsolete fixtures at Warehouse & Stores,Warehouse & Stores,Sort,1400,L. Fontaine,implemented,30.0,2026-10-01
+KZ-024,Remove duplicate tooling sets from Line 1 - Assembly,Line 1 - Assembly,Sort,7750,H. Schultz,implemented,9.0,2026-10-26
+KZ-025,Daily 10-minute clean-down rota for Warehouse & Stores,Warehouse & Stores,Shine,5000,K. Meyer,implemented,6.0,2026-09-30
+KZ-026,Purge expired consumables from Line 3 - Packaging storage,Line 3 - Packaging,Sort,1900,R. Diaz,proposed,,2026-11-11
+KZ-027,Supervisor gemba walk schedule for Quality Lab,Quality Lab,Sustain,9400,H. Schultz,rejected,,2026-09-07
+KZ-028,Floor-mark home locations for pallets at Maintenance Bay,Maintenance Bay,Set in Order,3650,E. Vargas,implemented,16.0,2026-10-04
+KZ-029,Tool crib re-layout to cut walk time at Maintenance Bay,Maintenance Bay,Set in Order,7750,D. Okafor,approved,,2026-10-29
+KZ-030,Clear unmarked WIP staging at Line 3 - Packaging,Line 3 - Packaging,Sort,2950,K. Meyer,rejected,,2026-09-11
+KZ-031,Remove duplicate tooling sets from Maintenance Bay,Maintenance Bay,Sort,7100,D. Okafor,approved,,2026-08-26
+KZ-032,Label all bins and racks at Quality Lab with QR codes,Quality Lab,Set in Order,6100,H. Schultz,implemented,22.0,2026-09-29
+KZ-033,Tool crib re-layout to cut walk time at Quality Lab,Quality Lab,Set in Order,12600,L. Fontaine,implemented,34.0,2026-11-10
+KZ-034,Floor-mark home locations for pallets at Warehouse & Stores,Warehouse & Stores,Set in Order,3250,D. Okafor,rejected,,2026-11-13
+KZ-035,Drip trays under hydraulic stations at Line 3 - Packaging,Line 3 - Packaging,Shine,5800,D. Okafor,approved,,2026-09-22
+KZ-036,Tool crib re-layout to cut walk time at Line 3 - Packaging (phase 2) (phase 2),Line 3 - Packaging,Set in Order,7150,L. Fontaine,proposed,,2026-08-29
+KZ-037,Purge expired consumables from Quality Lab storage (phase 2) (phase 2),Quality Lab,Sort,1000,P. Raman,proposed,,2026-10-05
+KZ-038,Tool crib re-layout to cut walk time at Maintenance Bay (phase 2),Maintenance Bay,Set in Order,5550,D. Okafor,proposed,,2026-10-28
+KZ-039,Visual standard board at Warehouse & Stores entrance,Warehouse & Stores,Standardize,2700,H. Schultz,proposed,,2026-10-07
+KZ-040,Weekly 5S huddle with rotating lead at Maintenance Bay,Maintenance Bay,Sustain,4000,E. Vargas,implemented,32.0,2026-09-01

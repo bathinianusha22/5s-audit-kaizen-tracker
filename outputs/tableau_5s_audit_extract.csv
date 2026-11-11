@@ -1,0 +1,361 @@
+zone,week,date,category,auditor,avg_score,checkpoints,red_flag
+Line 1 - Assembly,1,2026-08-24,Set in Order,A. Chen,2.8,3,True
+Line 1 - Assembly,1,2026-08-24,Shine,A. Chen,3.13,3,False
+Line 1 - Assembly,1,2026-08-24,Sort,A. Chen,3.0,3,False
+Line 1 - Assembly,1,2026-08-24,Standardize,A. Chen,3.13,3,False
+Line 1 - Assembly,1,2026-08-24,Sustain,A. Chen,2.87,3,True
+Line 2 - Assembly,1,2026-08-24,Set in Order,M. Ortiz,3.4,3,False
+Line 2 - Assembly,1,2026-08-24,Shine,M. Ortiz,3.47,3,False
+Line 2 - Assembly,1,2026-08-24,Sort,M. Ortiz,3.13,3,False
+Line 2 - Assembly,1,2026-08-24,Standardize,M. Ortiz,3.27,3,False
+Line 2 - Assembly,1,2026-08-24,Sustain,M. Ortiz,3.17,3,False
+Line 3 - Packaging,1,2026-08-24,Set in Order,A. Chen,3.4,3,False
+Line 3 - Packaging,1,2026-08-24,Shine,A. Chen,3.73,3,False
+Line 3 - Packaging,1,2026-08-24,Sort,A. Chen,3.67,3,False
+Line 3 - Packaging,1,2026-08-24,Standardize,A. Chen,3.03,3,False
+Line 3 - Packaging,1,2026-08-24,Sustain,A. Chen,3.2,3,False
+Maintenance Bay,1,2026-08-24,Set in Order,M. Ortiz,3.07,3,False
+Maintenance Bay,1,2026-08-24,Shine,M. Ortiz,3.43,3,False
+Maintenance Bay,1,2026-08-24,Sort,M. Ortiz,3.27,3,False
+Maintenance Bay,1,2026-08-24,Standardize,M. Ortiz,3.2,3,False
+Maintenance Bay,1,2026-08-24,Sustain,M. Ortiz,2.97,3,True
+Quality Lab,1,2026-08-24,Set in Order,M. Ortiz,3.8,3,False
+Quality Lab,1,2026-08-24,Shine,M. Ortiz,4.0,3,False
+Quality Lab,1,2026-08-24,Sort,M. Ortiz,3.67,3,False
+Quality Lab,1,2026-08-24,Standardize,M. Ortiz,3.7,3,False
+Quality Lab,1,2026-08-24,Sustain,M. Ortiz,3.47,3,False
+Warehouse & Stores,1,2026-08-24,Set in Order,M. Ortiz,2.47,3,True
+Warehouse & Stores,1,2026-08-24,Shine,M. Ortiz,2.83,3,True
+Warehouse & Stores,1,2026-08-24,Sort,M. Ortiz,2.73,3,True
+Warehouse & Stores,1,2026-08-24,Standardize,M. Ortiz,2.5,3,True
+Warehouse & Stores,1,2026-08-24,Sustain,M. Ortiz,2.33,3,True
+Line 1 - Assembly,2,2026-08-31,Set in Order,S. Novak,2.97,3,True
+Line 1 - Assembly,2,2026-08-31,Shine,S. Novak,3.3,3,False
+Line 1 - Assembly,2,2026-08-31,Sort,S. Novak,2.97,3,True
+Line 1 - Assembly,2,2026-08-31,Standardize,S. Novak,3.03,3,False
+Line 1 - Assembly,2,2026-08-31,Sustain,S. Novak,3.03,3,False
+Line 2 - Assembly,2,2026-08-31,Set in Order,M. Ortiz,3.13,3,False
+Line 2 - Assembly,2,2026-08-31,Shine,M. Ortiz,3.47,3,False
+Line 2 - Assembly,2,2026-08-31,Sort,M. Ortiz,3.1,3,False
+Line 2 - Assembly,2,2026-08-31,Standardize,M. Ortiz,3.1,3,False
+Line 2 - Assembly,2,2026-08-31,Sustain,M. Ortiz,3.17,3,False
+Line 3 - Packaging,2,2026-08-31,Set in Order,J. Patel,3.47,3,False
+Line 3 - Packaging,2,2026-08-31,Shine,J. Patel,3.77,3,False
+Line 3 - Packaging,2,2026-08-31,Sort,J. Patel,3.07,3,False
+Line 3 - Packaging,2,2026-08-31,Standardize,J. Patel,3.4,3,False
+Line 3 - Packaging,2,2026-08-31,Sustain,J. Patel,3.27,3,False
+Maintenance Bay,2,2026-08-31,Set in Order,A. Chen,2.7,3,True
+Maintenance Bay,2,2026-08-31,Shine,A. Chen,3.17,3,False
+Maintenance Bay,2,2026-08-31,Sort,A. Chen,2.83,3,True
+Maintenance Bay,2,2026-08-31,Standardize,A. Chen,3.3,3,False
+Maintenance Bay,2,2026-08-31,Sustain,A. Chen,3.03,3,False
+Quality Lab,2,2026-08-31,Set in Order,M. Ortiz,3.9,3,False
+Quality Lab,2,2026-08-31,Shine,M. Ortiz,3.67,3,False
+Quality Lab,2,2026-08-31,Sort,M. Ortiz,3.67,3,False
+Quality Lab,2,2026-08-31,Standardize,M. Ortiz,3.87,3,False
+Quality Lab,2,2026-08-31,Sustain,M. Ortiz,3.4,3,False
+Warehouse & Stores,2,2026-08-31,Set in Order,A. Chen,2.47,3,True
+Warehouse & Stores,2,2026-08-31,Shine,A. Chen,2.6,3,True
+Warehouse & Stores,2,2026-08-31,Sort,A. Chen,2.67,3,True
+Warehouse & Stores,2,2026-08-31,Standardize,A. Chen,2.77,3,True
+Warehouse & Stores,2,2026-08-31,Sustain,A. Chen,2.3,3,True
+Line 1 - Assembly,3,2026-09-07,Set in Order,M. Ortiz,3.03,3,False
+Line 1 - Assembly,3,2026-09-07,Shine,M. Ortiz,3.27,3,False
+Line 1 - Assembly,3,2026-09-07,Sort,M. Ortiz,2.87,3,True
+Line 1 - Assembly,3,2026-09-07,Standardize,M. Ortiz,3.0,3,False
+Line 1 - Assembly,3,2026-09-07,Sustain,M. Ortiz,2.9,3,True
+Line 2 - Assembly,3,2026-09-07,Set in Order,M. Ortiz,3.23,3,False
+Line 2 - Assembly,3,2026-09-07,Shine,M. Ortiz,3.73,3,False
+Line 2 - Assembly,3,2026-09-07,Sort,M. Ortiz,3.1,3,False
+Line 2 - Assembly,3,2026-09-07,Standardize,M. Ortiz,3.3,3,False
+Line 2 - Assembly,3,2026-09-07,Sustain,M. Ortiz,2.9,3,True
+Line 3 - Packaging,3,2026-09-07,Set in Order,A. Chen,3.27,3,False
+Line 3 - Packaging,3,2026-09-07,Shine,A. Chen,3.3,3,False
+Line 3 - Packaging,3,2026-09-07,Sort,A. Chen,3.37,3,False
+Line 3 - Packaging,3,2026-09-07,Standardize,A. Chen,3.43,3,False
+Line 3 - Packaging,3,2026-09-07,Sustain,A. Chen,3.4,3,False
+Maintenance Bay,3,2026-09-07,Set in Order,A. Chen,2.9,3,True
+Maintenance Bay,3,2026-09-07,Shine,A. Chen,3.33,3,False
+Maintenance Bay,3,2026-09-07,Sort,A. Chen,2.9,3,True
+Maintenance Bay,3,2026-09-07,Standardize,A. Chen,3.1,3,False
+Maintenance Bay,3,2026-09-07,Sustain,A. Chen,2.77,3,True
+Quality Lab,3,2026-09-07,Set in Order,M. Ortiz,3.53,3,False
+Quality Lab,3,2026-09-07,Shine,M. Ortiz,4.07,3,False
+Quality Lab,3,2026-09-07,Sort,M. Ortiz,3.8,3,False
+Quality Lab,3,2026-09-07,Standardize,M. Ortiz,3.6,3,False
+Quality Lab,3,2026-09-07,Sustain,M. Ortiz,3.57,3,False
+Warehouse & Stores,3,2026-09-07,Set in Order,S. Novak,2.4,3,True
+Warehouse & Stores,3,2026-09-07,Shine,S. Novak,3.0,3,False
+Warehouse & Stores,3,2026-09-07,Sort,S. Novak,2.4,3,True
+Warehouse & Stores,3,2026-09-07,Standardize,S. Novak,2.37,3,True
+Warehouse & Stores,3,2026-09-07,Sustain,S. Novak,2.0,3,True
+Line 1 - Assembly,4,2026-09-14,Set in Order,S. Novak,3.0,3,False
+Line 1 - Assembly,4,2026-09-14,Shine,S. Novak,3.13,3,False
+Line 1 - Assembly,4,2026-09-14,Sort,S. Novak,3.03,3,False
+Line 1 - Assembly,4,2026-09-14,Standardize,S. Novak,3.03,3,False
+Line 1 - Assembly,4,2026-09-14,Sustain,S. Novak,2.7,3,True
+Line 2 - Assembly,4,2026-09-14,Set in Order,S. Novak,3.03,3,False
+Line 2 - Assembly,4,2026-09-14,Shine,S. Novak,3.4,3,False
+Line 2 - Assembly,4,2026-09-14,Sort,S. Novak,3.17,3,False
+Line 2 - Assembly,4,2026-09-14,Standardize,S. Novak,3.17,3,False
+Line 2 - Assembly,4,2026-09-14,Sustain,S. Novak,3.0,3,False
+Line 3 - Packaging,4,2026-09-14,Set in Order,S. Novak,3.2,3,False
+Line 3 - Packaging,4,2026-09-14,Shine,S. Novak,3.87,3,False
+Line 3 - Packaging,4,2026-09-14,Sort,S. Novak,3.4,3,False
+Line 3 - Packaging,4,2026-09-14,Standardize,S. Novak,3.23,3,False
+Line 3 - Packaging,4,2026-09-14,Sustain,S. Novak,3.07,3,False
+Maintenance Bay,4,2026-09-14,Set in Order,S. Novak,3.03,3,False
+Maintenance Bay,4,2026-09-14,Shine,S. Novak,3.47,3,False
+Maintenance Bay,4,2026-09-14,Sort,S. Novak,2.87,3,True
+Maintenance Bay,4,2026-09-14,Standardize,S. Novak,2.93,3,True
+Maintenance Bay,4,2026-09-14,Sustain,S. Novak,3.0,3,False
+Quality Lab,4,2026-09-14,Set in Order,S. Novak,3.6,3,False
+Quality Lab,4,2026-09-14,Shine,S. Novak,3.93,3,False
+Quality Lab,4,2026-09-14,Sort,S. Novak,3.83,3,False
+Quality Lab,4,2026-09-14,Standardize,S. Novak,3.6,3,False
+Quality Lab,4,2026-09-14,Sustain,S. Novak,3.63,3,False
+Warehouse & Stores,4,2026-09-14,Set in Order,A. Chen,2.47,3,True
+Warehouse & Stores,4,2026-09-14,Shine,A. Chen,2.93,3,True
+Warehouse & Stores,4,2026-09-14,Sort,A. Chen,2.4,3,True
+Warehouse & Stores,4,2026-09-14,Standardize,A. Chen,2.2,3,True
+Warehouse & Stores,4,2026-09-14,Sustain,A. Chen,2.37,3,True
+Line 1 - Assembly,5,2026-09-21,Set in Order,J. Patel,3.07,3,False
+Line 1 - Assembly,5,2026-09-21,Shine,J. Patel,3.03,3,False
+Line 1 - Assembly,5,2026-09-21,Sort,J. Patel,3.1,3,False
+Line 1 - Assembly,5,2026-09-21,Standardize,J. Patel,2.97,3,True
+Line 1 - Assembly,5,2026-09-21,Sustain,J. Patel,2.83,3,True
+Line 2 - Assembly,5,2026-09-21,Set in Order,S. Novak,3.33,3,False
+Line 2 - Assembly,5,2026-09-21,Shine,S. Novak,3.57,3,False
+Line 2 - Assembly,5,2026-09-21,Sort,S. Novak,3.1,3,False
+Line 2 - Assembly,5,2026-09-21,Standardize,S. Novak,3.1,3,False
+Line 2 - Assembly,5,2026-09-21,Sustain,S. Novak,3.0,3,False
+Line 3 - Packaging,5,2026-09-21,Set in Order,M. Ortiz,3.43,3,False
+Line 3 - Packaging,5,2026-09-21,Shine,M. Ortiz,3.8,3,False
+Line 3 - Packaging,5,2026-09-21,Sort,M. Ortiz,3.17,3,False
+Line 3 - Packaging,5,2026-09-21,Standardize,M. Ortiz,3.33,3,False
+Line 3 - Packaging,5,2026-09-21,Sustain,M. Ortiz,3.3,3,False
+Maintenance Bay,5,2026-09-21,Set in Order,J. Patel,3.17,3,False
+Maintenance Bay,5,2026-09-21,Shine,J. Patel,3.3,3,False
+Maintenance Bay,5,2026-09-21,Sort,J. Patel,3.13,3,False
+Maintenance Bay,5,2026-09-21,Standardize,J. Patel,3.07,3,False
+Maintenance Bay,5,2026-09-21,Sustain,J. Patel,2.9,3,True
+Quality Lab,5,2026-09-21,Set in Order,A. Chen,3.77,3,False
+Quality Lab,5,2026-09-21,Shine,A. Chen,3.8,3,False
+Quality Lab,5,2026-09-21,Sort,A. Chen,3.67,3,False
+Quality Lab,5,2026-09-21,Standardize,A. Chen,4.07,3,False
+Quality Lab,5,2026-09-21,Sustain,A. Chen,3.37,3,False
+Warehouse & Stores,5,2026-09-21,Set in Order,M. Ortiz,2.5,3,True
+Warehouse & Stores,5,2026-09-21,Shine,M. Ortiz,2.67,3,True
+Warehouse & Stores,5,2026-09-21,Sort,M. Ortiz,2.33,3,True
+Warehouse & Stores,5,2026-09-21,Standardize,M. Ortiz,2.33,3,True
+Warehouse & Stores,5,2026-09-21,Sustain,M. Ortiz,2.13,3,True
+Line 1 - Assembly,6,2026-09-28,Set in Order,J. Patel,3.17,3,False
+Line 1 - Assembly,6,2026-09-28,Shine,J. Patel,3.4,3,False
+Line 1 - Assembly,6,2026-09-28,Sort,J. Patel,3.23,3,False
+Line 1 - Assembly,6,2026-09-28,Standardize,J. Patel,3.33,3,False
+Line 1 - Assembly,6,2026-09-28,Sustain,J. Patel,3.03,3,False
+Line 2 - Assembly,6,2026-09-28,Set in Order,A. Chen,3.33,3,False
+Line 2 - Assembly,6,2026-09-28,Shine,A. Chen,3.47,3,False
+Line 2 - Assembly,6,2026-09-28,Sort,A. Chen,3.33,3,False
+Line 2 - Assembly,6,2026-09-28,Standardize,A. Chen,3.57,3,False
+Line 2 - Assembly,6,2026-09-28,Sustain,A. Chen,3.0,3,False
+Line 3 - Packaging,6,2026-09-28,Set in Order,A. Chen,3.67,3,False
+Line 3 - Packaging,6,2026-09-28,Shine,A. Chen,3.67,3,False
+Line 3 - Packaging,6,2026-09-28,Sort,A. Chen,3.5,3,False
+Line 3 - Packaging,6,2026-09-28,Standardize,A. Chen,3.37,3,False
+Line 3 - Packaging,6,2026-09-28,Sustain,A. Chen,2.8,3,True
+Maintenance Bay,6,2026-09-28,Set in Order,M. Ortiz,3.07,3,False
+Maintenance Bay,6,2026-09-28,Shine,M. Ortiz,3.1,3,False
+Maintenance Bay,6,2026-09-28,Sort,M. Ortiz,3.0,3,False
+Maintenance Bay,6,2026-09-28,Standardize,M. Ortiz,3.07,3,False
+Maintenance Bay,6,2026-09-28,Sustain,M. Ortiz,2.93,3,True
+Quality Lab,6,2026-09-28,Set in Order,S. Novak,3.77,3,False
+Quality Lab,6,2026-09-28,Shine,S. Novak,4.13,3,False
+Quality Lab,6,2026-09-28,Sort,S. Novak,3.63,3,False
+Quality Lab,6,2026-09-28,Standardize,S. Novak,3.63,3,False
+Quality Lab,6,2026-09-28,Sustain,S. Novak,3.7,3,False
+Warehouse & Stores,6,2026-09-28,Set in Order,S. Novak,2.57,3,True
+Warehouse & Stores,6,2026-09-28,Shine,S. Novak,2.67,3,True
+Warehouse & Stores,6,2026-09-28,Sort,S. Novak,2.03,3,True
+Warehouse & Stores,6,2026-09-28,Standardize,S. Novak,2.37,3,True
+Warehouse & Stores,6,2026-09-28,Sustain,S. Novak,2.0,3,True
+Line 1 - Assembly,7,2026-10-05,Set in Order,J. Patel,3.4,3,False
+Line 1 - Assembly,7,2026-10-05,Shine,J. Patel,3.77,3,False
+Line 1 - Assembly,7,2026-10-05,Sort,J. Patel,3.07,3,False
+Line 1 - Assembly,7,2026-10-05,Standardize,J. Patel,3.43,3,False
+Line 1 - Assembly,7,2026-10-05,Sustain,J. Patel,3.23,3,False
+Line 2 - Assembly,7,2026-10-05,Set in Order,A. Chen,3.3,3,False
+Line 2 - Assembly,7,2026-10-05,Shine,A. Chen,3.6,3,False
+Line 2 - Assembly,7,2026-10-05,Sort,A. Chen,3.27,3,False
+Line 2 - Assembly,7,2026-10-05,Standardize,A. Chen,3.33,3,False
+Line 2 - Assembly,7,2026-10-05,Sustain,A. Chen,3.03,3,False
+Line 3 - Packaging,7,2026-10-05,Set in Order,S. Novak,3.33,3,False
+Line 3 - Packaging,7,2026-10-05,Shine,S. Novak,3.7,3,False
+Line 3 - Packaging,7,2026-10-05,Sort,S. Novak,3.57,3,False
+Line 3 - Packaging,7,2026-10-05,Standardize,S. Novak,3.37,3,False
+Line 3 - Packaging,7,2026-10-05,Sustain,S. Novak,3.43,3,False
+Maintenance Bay,7,2026-10-05,Set in Order,S. Novak,3.2,3,False
+Maintenance Bay,7,2026-10-05,Shine,S. Novak,3.4,3,False
+Maintenance Bay,7,2026-10-05,Sort,S. Novak,2.63,3,True
+Maintenance Bay,7,2026-10-05,Standardize,S. Novak,3.03,3,False
+Maintenance Bay,7,2026-10-05,Sustain,S. Novak,2.97,3,True
+Quality Lab,7,2026-10-05,Set in Order,M. Ortiz,3.77,3,False
+Quality Lab,7,2026-10-05,Shine,M. Ortiz,3.93,3,False
+Quality Lab,7,2026-10-05,Sort,M. Ortiz,3.77,3,False
+Quality Lab,7,2026-10-05,Standardize,M. Ortiz,3.63,3,False
+Quality Lab,7,2026-10-05,Sustain,M. Ortiz,3.23,3,False
+Warehouse & Stores,7,2026-10-05,Set in Order,A. Chen,2.7,3,True
+Warehouse & Stores,7,2026-10-05,Shine,A. Chen,3.03,3,False
+Warehouse & Stores,7,2026-10-05,Sort,A. Chen,2.73,3,True
+Warehouse & Stores,7,2026-10-05,Standardize,A. Chen,2.47,3,True
+Warehouse & Stores,7,2026-10-05,Sustain,A. Chen,2.17,3,True
+Line 1 - Assembly,8,2026-10-12,Set in Order,J. Patel,3.6,3,False
+Line 1 - Assembly,8,2026-10-12,Shine,J. Patel,3.93,3,False
+Line 1 - Assembly,8,2026-10-12,Sort,J. Patel,3.57,3,False
+Line 1 - Assembly,8,2026-10-12,Standardize,J. Patel,3.77,3,False
+Line 1 - Assembly,8,2026-10-12,Sustain,J. Patel,3.7,3,False
+Line 2 - Assembly,8,2026-10-12,Set in Order,A. Chen,3.53,3,False
+Line 2 - Assembly,8,2026-10-12,Shine,A. Chen,3.6,3,False
+Line 2 - Assembly,8,2026-10-12,Sort,A. Chen,3.4,3,False
+Line 2 - Assembly,8,2026-10-12,Standardize,A. Chen,3.33,3,False
+Line 2 - Assembly,8,2026-10-12,Sustain,A. Chen,3.57,3,False
+Line 3 - Packaging,8,2026-10-12,Set in Order,A. Chen,3.37,3,False
+Line 3 - Packaging,8,2026-10-12,Shine,A. Chen,3.67,3,False
+Line 3 - Packaging,8,2026-10-12,Sort,A. Chen,3.53,3,False
+Line 3 - Packaging,8,2026-10-12,Standardize,A. Chen,3.5,3,False
+Line 3 - Packaging,8,2026-10-12,Sustain,A. Chen,3.27,3,False
+Maintenance Bay,8,2026-10-12,Set in Order,J. Patel,3.2,3,False
+Maintenance Bay,8,2026-10-12,Shine,J. Patel,3.3,3,False
+Maintenance Bay,8,2026-10-12,Sort,J. Patel,3.1,3,False
+Maintenance Bay,8,2026-10-12,Standardize,J. Patel,2.97,3,True
+Maintenance Bay,8,2026-10-12,Sustain,J. Patel,3.13,3,False
+Quality Lab,8,2026-10-12,Set in Order,A. Chen,3.83,3,False
+Quality Lab,8,2026-10-12,Shine,A. Chen,4.0,3,False
+Quality Lab,8,2026-10-12,Sort,A. Chen,3.5,3,False
+Quality Lab,8,2026-10-12,Standardize,A. Chen,4.0,3,False
+Quality Lab,8,2026-10-12,Sustain,A. Chen,3.67,3,False
+Warehouse & Stores,8,2026-10-12,Set in Order,A. Chen,2.47,3,True
+Warehouse & Stores,8,2026-10-12,Shine,A. Chen,2.6,3,True
+Warehouse & Stores,8,2026-10-12,Sort,A. Chen,2.5,3,True
+Warehouse & Stores,8,2026-10-12,Standardize,A. Chen,2.3,3,True
+Warehouse & Stores,8,2026-10-12,Sustain,A. Chen,2.07,3,True
+Line 1 - Assembly,9,2026-10-19,Set in Order,A. Chen,3.87,3,False
+Line 1 - Assembly,9,2026-10-19,Shine,A. Chen,4.17,3,False
+Line 1 - Assembly,9,2026-10-19,Sort,A. Chen,3.97,3,False
+Line 1 - Assembly,9,2026-10-19,Standardize,A. Chen,3.77,3,False
+Line 1 - Assembly,9,2026-10-19,Sustain,A. Chen,4.27,3,False
+Line 2 - Assembly,9,2026-10-19,Set in Order,S. Novak,3.63,3,False
+Line 2 - Assembly,9,2026-10-19,Shine,S. Novak,3.7,3,False
+Line 2 - Assembly,9,2026-10-19,Sort,S. Novak,3.7,3,False
+Line 2 - Assembly,9,2026-10-19,Standardize,S. Novak,3.67,3,False
+Line 2 - Assembly,9,2026-10-19,Sustain,S. Novak,3.6,3,False
+Line 3 - Packaging,9,2026-10-19,Set in Order,A. Chen,3.6,3,False
+Line 3 - Packaging,9,2026-10-19,Shine,A. Chen,3.23,3,False
+Line 3 - Packaging,9,2026-10-19,Sort,A. Chen,3.07,3,False
+Line 3 - Packaging,9,2026-10-19,Standardize,A. Chen,3.6,3,False
+Line 3 - Packaging,9,2026-10-19,Sustain,A. Chen,3.07,3,False
+Maintenance Bay,9,2026-10-19,Set in Order,J. Patel,3.3,3,False
+Maintenance Bay,9,2026-10-19,Shine,J. Patel,3.6,3,False
+Maintenance Bay,9,2026-10-19,Sort,J. Patel,3.33,3,False
+Maintenance Bay,9,2026-10-19,Standardize,J. Patel,3.03,3,False
+Maintenance Bay,9,2026-10-19,Sustain,J. Patel,3.17,3,False
+Quality Lab,9,2026-10-19,Set in Order,S. Novak,3.97,3,False
+Quality Lab,9,2026-10-19,Shine,S. Novak,3.97,3,False
+Quality Lab,9,2026-10-19,Sort,S. Novak,3.6,3,False
+Quality Lab,9,2026-10-19,Standardize,S. Novak,3.57,3,False
+Quality Lab,9,2026-10-19,Sustain,S. Novak,3.23,3,False
+Warehouse & Stores,9,2026-10-19,Set in Order,A. Chen,2.47,3,True
+Warehouse & Stores,9,2026-10-19,Shine,A. Chen,2.57,3,True
+Warehouse & Stores,9,2026-10-19,Sort,A. Chen,2.37,3,True
+Warehouse & Stores,9,2026-10-19,Standardize,A. Chen,2.33,3,True
+Warehouse & Stores,9,2026-10-19,Sustain,A. Chen,2.07,3,True
+Line 1 - Assembly,10,2026-10-26,Set in Order,M. Ortiz,4.13,3,False
+Line 1 - Assembly,10,2026-10-26,Shine,M. Ortiz,4.47,3,False
+Line 1 - Assembly,10,2026-10-26,Sort,M. Ortiz,3.93,3,False
+Line 1 - Assembly,10,2026-10-26,Standardize,M. Ortiz,4.1,3,False
+Line 1 - Assembly,10,2026-10-26,Sustain,M. Ortiz,3.83,3,False
+Line 2 - Assembly,10,2026-10-26,Set in Order,M. Ortiz,3.87,3,False
+Line 2 - Assembly,10,2026-10-26,Shine,M. Ortiz,3.73,3,False
+Line 2 - Assembly,10,2026-10-26,Sort,M. Ortiz,3.37,3,False
+Line 2 - Assembly,10,2026-10-26,Standardize,M. Ortiz,3.5,3,False
+Line 2 - Assembly,10,2026-10-26,Sustain,M. Ortiz,3.4,3,False
+Line 3 - Packaging,10,2026-10-26,Set in Order,J. Patel,3.47,3,False
+Line 3 - Packaging,10,2026-10-26,Shine,J. Patel,3.8,3,False
+Line 3 - Packaging,10,2026-10-26,Sort,J. Patel,3.4,3,False
+Line 3 - Packaging,10,2026-10-26,Standardize,J. Patel,3.43,3,False
+Line 3 - Packaging,10,2026-10-26,Sustain,J. Patel,3.43,3,False
+Maintenance Bay,10,2026-10-26,Set in Order,M. Ortiz,3.13,3,False
+Maintenance Bay,10,2026-10-26,Shine,M. Ortiz,3.83,3,False
+Maintenance Bay,10,2026-10-26,Sort,M. Ortiz,3.13,3,False
+Maintenance Bay,10,2026-10-26,Standardize,M. Ortiz,3.43,3,False
+Maintenance Bay,10,2026-10-26,Sustain,M. Ortiz,3.13,3,False
+Quality Lab,10,2026-10-26,Set in Order,S. Novak,3.67,3,False
+Quality Lab,10,2026-10-26,Shine,S. Novak,3.97,3,False
+Quality Lab,10,2026-10-26,Sort,S. Novak,3.7,3,False
+Quality Lab,10,2026-10-26,Standardize,S. Novak,3.83,3,False
+Quality Lab,10,2026-10-26,Sustain,S. Novak,3.5,3,False
+Warehouse & Stores,10,2026-10-26,Set in Order,M. Ortiz,2.13,3,True
+Warehouse & Stores,10,2026-10-26,Shine,M. Ortiz,2.57,3,True
+Warehouse & Stores,10,2026-10-26,Sort,M. Ortiz,2.5,3,True
+Warehouse & Stores,10,2026-10-26,Standardize,M. Ortiz,2.43,3,True
+Warehouse & Stores,10,2026-10-26,Sustain,M. Ortiz,2.07,3,True
+Line 1 - Assembly,11,2026-11-02,Set in Order,J. Patel,4.23,3,False
+Line 1 - Assembly,11,2026-11-02,Shine,J. Patel,4.8,3,False
+Line 1 - Assembly,11,2026-11-02,Sort,J. Patel,4.43,3,False
+Line 1 - Assembly,11,2026-11-02,Standardize,J. Patel,4.47,3,False
+Line 1 - Assembly,11,2026-11-02,Sustain,J. Patel,4.17,3,False
+Line 2 - Assembly,11,2026-11-02,Set in Order,J. Patel,3.63,3,False
+Line 2 - Assembly,11,2026-11-02,Shine,J. Patel,4.03,3,False
+Line 2 - Assembly,11,2026-11-02,Sort,J. Patel,3.87,3,False
+Line 2 - Assembly,11,2026-11-02,Standardize,J. Patel,3.87,3,False
+Line 2 - Assembly,11,2026-11-02,Sustain,J. Patel,3.67,3,False
+Line 3 - Packaging,11,2026-11-02,Set in Order,S. Novak,3.37,3,False
+Line 3 - Packaging,11,2026-11-02,Shine,S. Novak,3.53,3,False
+Line 3 - Packaging,11,2026-11-02,Sort,S. Novak,3.47,3,False
+Line 3 - Packaging,11,2026-11-02,Standardize,S. Novak,3.23,3,False
+Line 3 - Packaging,11,2026-11-02,Sustain,S. Novak,3.03,3,False
+Maintenance Bay,11,2026-11-02,Set in Order,A. Chen,3.37,3,False
+Maintenance Bay,11,2026-11-02,Shine,A. Chen,3.67,3,False
+Maintenance Bay,11,2026-11-02,Sort,A. Chen,3.13,3,False
+Maintenance Bay,11,2026-11-02,Standardize,A. Chen,3.67,3,False
+Maintenance Bay,11,2026-11-02,Sustain,A. Chen,3.47,3,False
+Quality Lab,11,2026-11-02,Set in Order,A. Chen,3.73,3,False
+Quality Lab,11,2026-11-02,Shine,A. Chen,3.9,3,False
+Quality Lab,11,2026-11-02,Sort,A. Chen,3.43,3,False
+Quality Lab,11,2026-11-02,Standardize,A. Chen,3.67,3,False
+Quality Lab,11,2026-11-02,Sustain,A. Chen,3.53,3,False
+Warehouse & Stores,11,2026-11-02,Set in Order,S. Novak,2.8,3,True
+Warehouse & Stores,11,2026-11-02,Shine,S. Novak,2.63,3,True
+Warehouse & Stores,11,2026-11-02,Sort,S. Novak,2.47,3,True
+Warehouse & Stores,11,2026-11-02,Standardize,S. Novak,2.23,3,True
+Warehouse & Stores,11,2026-11-02,Sustain,S. Novak,2.23,3,True
+Line 1 - Assembly,12,2026-11-09,Set in Order,J. Patel,4.73,3,False
+Line 1 - Assembly,12,2026-11-09,Shine,J. Patel,4.97,3,False
+Line 1 - Assembly,12,2026-11-09,Sort,J. Patel,4.5,3,False
+Line 1 - Assembly,12,2026-11-09,Standardize,J. Patel,4.77,3,False
+Line 1 - Assembly,12,2026-11-09,Sustain,J. Patel,4.77,3,False
+Line 2 - Assembly,12,2026-11-09,Set in Order,J. Patel,4.0,3,False
+Line 2 - Assembly,12,2026-11-09,Shine,J. Patel,4.13,3,False
+Line 2 - Assembly,12,2026-11-09,Sort,J. Patel,3.77,3,False
+Line 2 - Assembly,12,2026-11-09,Standardize,J. Patel,3.73,3,False
+Line 2 - Assembly,12,2026-11-09,Sustain,J. Patel,3.87,3,False
+Line 3 - Packaging,12,2026-11-09,Set in Order,S. Novak,3.43,3,False
+Line 3 - Packaging,12,2026-11-09,Shine,S. Novak,3.77,3,False
+Line 3 - Packaging,12,2026-11-09,Sort,S. Novak,3.3,3,False
+Line 3 - Packaging,12,2026-11-09,Standardize,S. Novak,3.6,3,False
+Line 3 - Packaging,12,2026-11-09,Sustain,S. Novak,3.0,3,False
+Maintenance Bay,12,2026-11-09,Set in Order,J. Patel,3.37,3,False
+Maintenance Bay,12,2026-11-09,Shine,J. Patel,3.8,3,False
+Maintenance Bay,12,2026-11-09,Sort,J. Patel,3.53,3,False
+Maintenance Bay,12,2026-11-09,Standardize,J. Patel,3.47,3,False
+Maintenance Bay,12,2026-11-09,Sustain,J. Patel,3.27,3,False
+Quality Lab,12,2026-11-09,Set in Order,A. Chen,3.87,3,False
+Quality Lab,12,2026-11-09,Shine,A. Chen,4.13,3,False
+Quality Lab,12,2026-11-09,Sort,A. Chen,3.63,3,False
+Quality Lab,12,2026-11-09,Standardize,A. Chen,3.5,3,False
+Quality Lab,12,2026-11-09,Sustain,A. Chen,3.4,3,False
+Warehouse & Stores,12,2026-11-09,Set in Order,M. Ortiz,2.5,3,True
+Warehouse & Stores,12,2026-11-09,Shine,M. Ortiz,2.63,3,True
+Warehouse & Stores,12,2026-11-09,Sort,M. Ortiz,2.7,3,True
+Warehouse & Stores,12,2026-11-09,Standardize,M. Ortiz,2.47,3,True
+Warehouse & Stores,12,2026-11-09,Sustain,M. Ortiz,2.2,3,True
